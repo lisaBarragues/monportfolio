@@ -20,6 +20,41 @@ const { title = "Portfolio", description = "" } = Astro.props;
 </html>
 
 <style>
-  body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;background:#0b0b0b;color:#fff}
-  .container{max-width:1000px;margin:0 auto;padding:28px 18px}
+  :root{
+    --bg: #120F12;
+    --surface: #181218;
+    --surface-2: #201620;
+    --border: rgba(232,160,191,.18);
+
+    --accent: #9F2B68;
+    --accent-2: #E8A0BF;
+
+    --text: #F6F2F5;
+    --muted: rgba(246,242,245,.78);
+
+    --radius: 22px;
+  }
+
+  body{
+    margin:0;
+    font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial;
+    background: radial-gradient(900px 600px at 20% 10%, rgba(159,43,104,.20), transparent 60%),
+                radial-gradient(900px 600px at 85% 25%, rgba(232,160,191,.12), transparent 55%),
+                var(--bg);
+    color: var(--text);
+  }
+
+  .container{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 28px 18px 60px;
+  }
+
+  :global(.card){
+    background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.01));
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+  }
+  :global(a){ color: inherit; }
+  :global(.muted){ color: var(--muted); }
 </style>
