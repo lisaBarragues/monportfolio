@@ -1,0 +1,31 @@
+---
+import Layout from "../../components/Layout.astro";
+import competences from "../../content/competences.json";
+
+const humaines = competences.filter(c => c.type === "humaine");
+const techniques = competences.filter(c => c.type === "technique");
+---
+
+<Layout title="Compétences — Portfolio">
+  <h1>Compétences</h1>
+
+  <h2>Humaines</h2>
+  <div class="grid">
+    {humaines.map(c => (
+      <a class="card" href={`/competences/${c.slug}`}>{c.titre}</a>
+    ))}
+  </div>
+
+  <h2 style="margin-top:22px">Techniques</h2>
+  <div class="grid">
+    {techniques.map(c => (
+      <a class="card" href={`/competences/${c.slug}`}>{c.titre}</a>
+    ))}
+  </div>
+
+  <style>
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-top:10px}
+    .card{padding:14px 16px;border-radius:16px;border:1px solid rgba(255,255,255,.10);text-decoration:none;color:inherit;opacity:.9}
+    .card:hover{opacity:1;border-color:rgba(255,255,255,.22)}
+  </style>
+</Layout>

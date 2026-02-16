@@ -1,0 +1,22 @@
+---
+import Layout from "../../components/Layout.astro";
+import realisations from "../../content/realisations.json";
+---
+
+<Layout title="Réalisations — Portfolio">
+  <h1>Réalisations</h1>
+  <div class="grid">
+    {realisations.map(r => (
+      <a class="card" href={`/realisations/${r.slug}`}>
+        <div style="font-weight:600">{r.titre}</div>
+        <div style="opacity:.7;margin-top:6px">{r.annee}</div>
+      </a>
+    ))}
+  </div>
+
+  <style>
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px;margin-top:12px}
+    .card{padding:14px 16px;border-radius:16px;border:1px solid rgba(255,255,255,.10);text-decoration:none;color:inherit;opacity:.9}
+    .card:hover{opacity:1;border-color:rgba(255,255,255,.22)}
+  </style>
+</Layout>

@@ -1,0 +1,13 @@
+[
+  { "slug": "communication", "titre": "Communication", "type": "humaine" },
+  { "slug": "esprit-equipe", "titre": "Esprit d’équipe", "type": "humaine" },
+  { "slug": "autonomie", "titre": "Autonomie", "type": "humaine" },
+  { "slug": "adaptabilite", "titre": "Adaptabilité", "type": "humaine" },
+  { "slug": "rigueur", "titre": "Rigueur", "type": "humaine" },
+  { "slug": "organisation", "titre": "Organisation", "type": "humaine" },
+
+  { "slug": "sql", "titre": "SQL", "type": "technique" },
+  { "slug": "Java", "titre": "Java", "type": "technique" },
+  { "slug": "Gitlab", "titre": "Gitlab", "type": "technique" },
+  { "slug": "Python", "titre": "Python", "type": "technique" }
+]

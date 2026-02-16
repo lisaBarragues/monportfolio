@@ -1,12 +1,151 @@
 ---
-import Navbar from "../components/Navbar.astro";
+import Layout from "../components/Layout.astro";
 ---
 
-<html lang="fr">
-  <body>
-    <Navbar />
-    <main>
-      <h1>Accueil</h1>
-    </main>
-  </body>
-</html>
+<Layout title="Accueil — Portfolio">
+  <section class="hero">
+    <img class="avatar" src="/images/me.heic" alt="Photo de Lisa Barragues" />
+
+    <div class="intro">
+      <h1>Lisa Barragues</h1>
+
+      <div class="prose">
+    
+        <p>
+          Actuellement en formation expert en ingénierie de développement d’applications à l’école ESIEA, où j’associe 
+          apprentissage théorique et expérience pratique en alternance chez Easybourse, j’arrive à la fin de mon cursus.
+          Pendant ces deux années j’ai pu consolider mes connaissances ainsi que nourrir ma soif d’apprendre, et je peux 
+          désormais me diriger sereinement vers l’obtention de mon diplôme et la vie active. Mes valeurs, mon projet 
+          professionnel, mes qualités humaines et centres d’intérêt se sont développés et affinés pour finalement me guider
+          jusqu’ici. Cette présentation reflète qui je suis, une personne investie, curieuse et humaine, prête à évoluer
+          pour donner le meilleur d’elle-même dans chaque projet qu’elle entreprend.
+        </p>
+      
+        <p>
+          Les valeurs qui me tiennent particulièrement à coeur sont la persévérance parce que rien de ce qui compte vraiment 
+          ne se construit sans effort. Quand je me fixe un objectif, je vais au bout, même si le chemin est semé d’embûches, 
+          j’aime apprendre, me dépasser et trouver des solutions, même quand c’est difficile. Il y a aussi le partage, parce
+          que le travail d’équipe, l’échange d’idées et la transmission des savoirs sont essentiels pour moi. J’ai toujours 
+          aimé cette dynamique où chacun·e apporte quelque chose, et où l’on progresse ensemble. D’ailleurs, travailler en 
+          équipe a toujours été ma forme d’apprentissage préférée. Et enfin, l’ouverture d’esprit, parce que le monde change 
+          énormément, les technologies évoluent, et j’ai envie de rester curieuse, de comprendre ce qui m’entoure et d’accueillir 
+          des points de vue différents. J’accorde également une grande importance à la loyauté, à l’empathie et au respect, des
+          qualités qui me permettent d’évoluer sereinement dans la vie.
+        </p>
+        
+        <p>
+          Pour mon projet professionnel, ce que je recherche avant tout, c’est de continuer à m’épanouir dans le développement 
+          logiciel et l’univers de l’informatique. C’est un domaine qui me passionne pour les possibilités infinies qu’il offre : 
+          créer, résoudre, comprendre et améliorer. Je veux conserver cette curiosité qui m’anime aujourd’hui, celle qui me pousse 
+          à apprendre de nouveaux langages de programmation ou technologies et à tester des idées par envie de construire quelque 
+          chose de concret. Mon objectif, ce n’est pas juste d’avoir un poste ou un titre, c’est de continuer à apprendre, à évoluer, 
+          à prendre du plaisir dans ce que je fais au quotidien.
+        </p>
+
+        <p>
+          Mon plan personnel rejoint naturellement mon projet professionnel, puisque pour moi, les deux sont liés. J’ai envie d’une vie
+          dans laquelle mon travail me stimule, me fait grandir, et me donne l’impression de contribuer à quelque chose. J’aimerai rester
+          curieuse, ambitieuse, entourée de personnes qui me tirent vers le haut, et surtout, rester fidèle à mes convictions.
+        </p>
+
+        <p>
+          C’est aussi pour cela que mes qualités humaines tiennent une place essentielle dans mon parcours. Elles se sont
+          construites au fil de mes expériences personnelles, universitaires et professionnelles, et m’ont permis de progresser
+          autant sur le plan technique que relationnel. Communication, organisation, autonomie, esprit d’équipe, adaptabilité et
+          rigueur sont des compétences humaines que j’ai eu l’occasion de développer concrètement, que ce soit à travers mes
+          formations ou encore les exigences de mon alternance. Elles m’accompagnent aujourd’hui dans chaque étape de mon 
+          évolution professionnelle. Par exemple, ma rigueur et mon sens de l’organisation m’ont permis de gérer efficacement 
+          les projets simultanés lors de ma licence, tout en maintenant un niveau académique assez haut. Je suis convaincue que 
+          ces qualités sont indispensables dans mon futur métier, car elles permettent de s’adapter, de collaborer, mais aussi de 
+          prendre des initiatives dans des environnements parfois complexes. Je continue d’ailleurs à les cultiver au quotidien, 
+          en cherchant à progresser dans ma manière de travailler et de communiquer avec les autres.
+        </p>
+
+        <p>
+          Au-delà de mon engagement dans mes études et mon travail, certaines activités occupent une place importante dans ma vie,
+          en effet mes centres d'intérêt reflètent les valeurs qui me sont chères. La randonnée et l’escalade, que je pratique 
+          régulièrement, développent chez moi la persévérance, l’autonomie et un véritable goût pour le dépassement de soi, des qualités
+          que je retrouve dans ma vie professionnelle. L’expérience du chemin de Saint-Jacques-de-Compostelle a notamment été une aventure
+          marquante, à la fois sur le plan physique, mental et humain. En parcourant les sentiers, j’ai appris à me fixer des objectifs, 
+          à avancer malgré les obstacles, et à apprécier l’effort sur la durée. Le code, que je considère aussi comme une passion, m’a 
+          appris la patience, l’assiduité et l’autonomie dans l’apprentissage. Je joue aussi régulièrement à des jeux vidéo, une activité 
+          qui m’a permis de développer un bon esprit d’équipe et un sens du fair-play. Le voyage et le cinéma alimentent ma curiosité, 
+          mon ouverture d’esprit et ma créativité, tandis que les moments partagés avec mes amis et ma famille sont essentiels pour moi, 
+          ils renforcent mon besoin de lien, d’écoute et de partage.
+        </p>
+      </div>
+    </div>
+  </section>
+
+ <section class="section">
+    <h2>Parcours</h2>
+    <p class="muted">Ton parcours (école/alternance/stages, timeline simple).</p>
+  </section>
+
+  <style>
+    /* conteneur */
+    .hero{
+      background: rgba(255,255,255,.03);
+      border: 1px solid rgba(255,255,255,.08);
+      border-radius: 22px;
+      padding: 18px;
+      overflow: hidden; /* pour contenir le float */
+    }
+
+    /* image flottante = texte à droite + dessous */
+    .avatar{
+      float: left;
+      width: 280px;
+      height: 280px;
+      object-fit: cover;
+      border-radius: 18px;
+      margin: 16px 20px 18px 20px;
+      border: 1px solid rgba(255,255,255,.10);
+      box-shadow: 0 12px 30px rgba(0,0,0,.35);
+    }
+    .intro {
+      width: 100%;
+    }
+
+    .intro h1{
+      margin: 10px 0 10px;
+      font-size: 2.2rem;
+      letter-spacing: .2px;
+    }
+
+    /* texte compact et agréable */
+    .prose{
+      opacity: .92;
+      line-height: 1.55;
+      font-size: 0.98rem;
+      max-width: none;
+      text-align: justify;
+      margin: 20px;
+    }
+    .prose p{
+      margin: 0 0 10px;
+    }
+
+    .section{
+      margin-top: 22px;
+      background: rgba(255,255,255,.02);
+      border: 1px solid rgba(255,255,255,.06);
+      border-radius: 22px;
+      padding: 18px;
+    }
+    .muted{ opacity:.8; margin: 8px 0 0; }
+
+    /* responsive : sur mobile, image au-dessus */
+    @media (max-width: 720px){
+      .avatar{
+        float: none;
+        width: 100%;
+        height: auto;
+        aspect-ratio: 1 / 1;
+        margin: 0 0 12px 0;
+      }
+      .intro h1{ font-size: 1.85rem; }
+      .prose{ font-size: 1rem; }
+    }
+  </style>
+</Layout>

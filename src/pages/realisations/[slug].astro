@@ -1,0 +1,29 @@
+---
+import Layout from "../../components/Layout.astro";
+import realisations from "../../content/realisations.json";
+
+export function getStaticPaths() {
+  return realisations.map(r => ({ params: { slug: r.slug }, props: { r } }));
+}
+
+const { r } = Astro.props;
+---
+
+<Layout title={`${r.titre} — Réalisations`}>
+  <a href="/realisations" style="opacity:.8">← Retour</a>
+  <h1>{r.titre}</h1>
+
+  <p style="opacity:.85">
+    Résumé : contexte, objectif, tes actions, résultats.
+  </p>
+
+  <h2>Ce que j’ai fait</h2>
+  <ul style="opacity:.85">
+    <li>Action 1</li>
+    <li>Action 2</li>
+    <li>Action 3</li>
+  </ul>
+
+  <h2>Technos</h2>
+  <p style="opacity:.85">Unity / Unreal / Java / Rust / etc.</p>
+</Layout>
