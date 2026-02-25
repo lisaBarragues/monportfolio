@@ -2,12 +2,12 @@
   { "slug": "communication", "titre": "Communication", "type": "humaine", "image": "communication.png"},
   { "slug": "esprit-equipe", "titre": "Esprit d’équipe", "type": "humaine", "image": "autonomie2.png"},
   { "slug": "autonomie", "titre": "Autonomie", "type": "humaine", "image": "autonomie.jpg" },
-  { "slug": "adaptabilite", "titre": "Adaptabilité", "type": "humaine",  "image": "adaptabilite.png" },
-  { "slug": "rigueur", "titre": "Rigueur", "type": "humaine", "image": "favicon.svg" },
-  { "slug": "organisation", "titre": "Organisation", "type": "humaine", "image": "organisation.png" },
+  { "slug": "adaptabilite", "titre": "Adaptabilité", "type": "humaine",  "image": "adaptabilite.png"},
+  { "slug": "rigueur", "titre": "Rigueur", "type": "humaine", "image": "favicon.svg"},
+  { "slug": "organisation", "titre": "Organisation", "type": "humaine", "image": "organisation.png"},
 
-  { "slug": "sql", "titre": "SQL", "type": "technique", "image": "sql.avif" },
-  { "slug": "java", "titre": "Java", "type": "technique", "image": "java.svg" },
-  { "slug": "gitlab", "titre": "Gitlab", "type": "technique", "image": "git.png" },
+  { "slug": "sql", "titre": "SQL", "type": "technique", "image": "sql.avif"},
+  { "slug": "java", "titre": "Java", "type": "technique", "image": "java.svg"},
+  { "slug": "gitlab", "titre": "Gitlab", "type": "technique", "image": "git.png"},
   { "slug": "python", "titre": "Python", "type": "technique", "image": "python.png"}
 ]

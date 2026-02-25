@@ -25,24 +25,59 @@ const techniques = entries
   <h2 id="humaines">Humaines</h2>
   <div class="grid">
     {humaines.map(c => (
-      <a class="card" href={`/competences/${c.slug}`}>{c.frontmatter.title}</a>
-      <img class="card-image" src={`/images/competences/${c.frontmatter.image}`} alt={c.frontmatter.title}/>
+      <a class="card" href={`/competences/${c.slug}`}>
+        <img class="card-image" src={`/images/competences/${c.frontmatter.image}`} alt={c.frontmatter.title}/>
+        <span class="card-title">{c.frontmatter.title}</span>
+      </a>
     ))}
   </div>
-
   <h2 id="techniques" style="margin-top:22px">Techniques</h2>
   <div class="grid">
     {techniques.map(c => (
-      <a class="card" href={`/competences/${c.slug}`}>{c.frontmatter.title}
-      <img class="card-image" src={`/images/competences/${c.frontmatter.image}`} alt={c.frontmatter.title}/>
+      <a class="card" href={`/competences/${c.slug}`}>
+        <img class="card-image" src={`/images/competences/${c.frontmatter.image}`} alt={c.frontmatter.title}/>
+        <span class="card-title">{c.frontmatter.title}</span>
       </a>
     ))}
   </div>
 
   <style>
-    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-top:10px}
-    .card{padding:14px 16px;border-radius:16px;border:1px solid rgba(255,255,255,.10);text-decoration:none;color:inherit;opacity:.9}
-    .card:hover{opacity:1;border-color:rgba(255,255,255,.22)}
-    .card-image{width:100%;height:120px;object-fit:contain;}
+    .grid{
+      display:grid;
+      grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+      gap:18px;
+      margin-top:14px;
+    }
+
+    .card{
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      padding:20px 18px;
+      border-radius:18px;
+      border:1px solid rgba(255,255,255,.10);
+      text-align:center;
+      text-decoration:none;
+      color:inherit;
+      gap:18px;                /* espace image / texte */
+      transition:.2s ease;
+    }
+
+    .card:hover{
+      transform:translateY(-4px);
+      border-color:rgba(255,255,255,.28);
+    }
+
+    .card-image{
+      width:100%;
+      height:130px;
+      object-fit:contain;
+    }
+
+    .card-title{
+      font-weight:700;         /* plus épais */
+      font-size:1.05rem;
+      letter-spacing:.3px;
+    }
   </style>
 </Layout>

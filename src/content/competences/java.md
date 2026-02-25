@@ -2,6 +2,7 @@
 title: "Java"
 type: "technique"
 order: 1
+image : java.svg
 ---
 
 ## Résumé
