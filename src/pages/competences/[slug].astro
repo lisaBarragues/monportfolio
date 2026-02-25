@@ -1,25 +1,51 @@
 ---
 import Layout from "../../components/Layout.astro";
-import competences from "../../content/competences.json";
 
-export function getStaticPaths() {
-  return competences.map(c => ({ params: { slug: c.slug }, props: { c } }));
+export async function getStaticPaths() {
+
+  const modules = import.meta.glob("../../content/competences/*.{md,mdx}");
+
+  const paths = [];
+
+  for (const path in modules) {
+    const mod = await modules[path]();
+    const slug = path.split("/").pop().replace(/\.(md|mdx)$/, "");
+
+    paths.push({
+      params: { slug },
+      props: {
+        frontmatter: mod.frontmatter,
+        Content: mod.default
+      }
+    });
+  }
+
+  return paths;
 }
 
-const { c } = Astro.props;
+const { frontmatter, Content } = Astro.props;
 ---
 
-<Layout title={`${c.titre} — Compétences`}>
+<Layout title={`${frontmatter.title} — Compétences`}>
   <a href="/competences" style="opacity:.8">← Retour</a>
-  <h1>{c.titre}</h1>
 
-  <p style="opacity:.85">
-    Décris la compétence : définition + exemple concret + outils/technos si besoin.
-  </p>
+  <h1>{frontmatter.title}</h1>
 
-  <ul style="opacity:.85">
-    <li>Exemple projet / situation</li>
-    <li>Ce que tu as apporté</li>
-    <li>Résultat</li>
-  </ul>
+  <article class="prose">
+    <Content />
+  </article>
+
+  <style>
+    .prose{
+      line-height: 1.6;
+      opacity: .92;
+      max-width: 75ch;
+    }
+    .prose :global(a){
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+    .prose :global(h2){ margin-top: 18px; }
+    .prose :global(ul){ padding-left: 18px; }
+  </style>
 </Layout>
