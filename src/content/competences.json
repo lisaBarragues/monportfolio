@@ -1,8 +1,8 @@
 [
   { "slug": "communication", "titre": "Communication", "type": "humaine", "image": "communication.png"},
-  { "slug": "esprit-equipe", "titre": "Esprit d’équipe", "type": "humaine", "image": "autonomie2.png"},
+  { "slug": "esprit-equipe", "titre": "Esprit d’équipe", "type": "humaine", "image": "espritdequipe.jpg"},
   { "slug": "autonomie", "titre": "Autonomie", "type": "humaine", "image": "autonomie.jpg" },
-  { "slug": "adaptabilite", "titre": "Adaptabilité", "type": "humaine",  "image": "adaptabilite.png"},
+  { "slug": "adaptabilite", "titre": "Adaptabilité", "type": "humaine",  "image": "autonomie2.png"},
   { "slug": "rigueur", "titre": "Rigueur", "type": "humaine", "image": "favicon.svg"},
   { "slug": "organisation", "titre": "Organisation", "type": "humaine", "image": "organisation.png"},
 

@@ -22,18 +22,19 @@ const techniques = entries
 <Layout title="Compétences — Portfolio">
   <h1>Compétences</h1>
 
-  <h2 id="humaines">Humaines</h2>
+  <h2 id="techniques" style="margin-top:35px">Techniques</h2>
   <div class="grid">
-    {humaines.map(c => (
+    {techniques.map(c => (
       <a class="card" href={`/competences/${c.slug}`}>
         <img class="card-image" src={`/images/competences/${c.frontmatter.image}`} alt={c.frontmatter.title}/>
         <span class="card-title">{c.frontmatter.title}</span>
       </a>
     ))}
   </div>
-  <h2 id="techniques" style="margin-top:22px">Techniques</h2>
+
+  <h2 id="humaines" style="margin-top:35px">Humaines</h2>
   <div class="grid">
-    {techniques.map(c => (
+    {humaines.map(c => (
       <a class="card" href={`/competences/${c.slug}`}>
         <img class="card-image" src={`/images/competences/${c.frontmatter.image}`} alt={c.frontmatter.title}/>
         <span class="card-title">{c.frontmatter.title}</span>
@@ -69,8 +70,8 @@ const techniques = entries
     }
 
     .card-image{
-      width:100%;
-      height:130px;
+      width:140%;
+      height:160px;
       object-fit:contain;
     }
 
