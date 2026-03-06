@@ -1,7 +1,7 @@
 [
-  { "slug": "compostelle", "titre": "Compostelle", "annee": "2024" },
-  { "slug": "myplatformer-python", "titre": "MyPlatformer — Jeu 2D Python", "annee": "2025" },
-  { "slug": "doodle-jump", "titre": "Doodle Jump", "annee": "2022" },
-  { "slug": "catan", "titre": "Catan - Jeu Java", "annee": "2021" },
-  { "slug": "alternance", "titre": "Mon alternance", "annee": "2025/2026" }
+  { "slug": "compostelle", "titre": "Compostelle", "annee": "2024", "image" : "doodlejump.png", "resume": "Parcours du chemin de Saint-Jacques-de-Compostelle"},
+  { "slug": "myplatformer-python", "titre": "MyPlatformer", "annee": "2025", "image" : "doodlejump.png", "resume": "Développement d’un jeu de plateforme 2D en Python"},
+  { "slug": "doodle-jump", "titre": "Jeu Doodle Jump", "annee": "2022", "image" : "doodlejump.png", "resume": "Développement d’un clone du jeu DoodleJump en Java"},
+  { "slug": "catan", "titre": "Jeu Catan", "annee": "2021", "image" : "catan.png", "resume": "Développement d’une adaptation du jeu de société Catan en Java" },
+  { "slug": "alternance", "titre": "Mon alternance", "annee": "2025/2026", "image" : "alternance.png", "resume": "Mon alternance en tant que développeuse data chez Easybourse"}
 ]
