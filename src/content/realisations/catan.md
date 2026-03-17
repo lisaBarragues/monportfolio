@@ -44,7 +44,7 @@ Avec le recul, ce projet a joué un rôle important dans mon parcours. Il m’a 
 
 **Humaine**
 - **[Organisation](/competences/organisation)**
-- **[Esprit d'équipe](/competences/esprit-equpe)**
+- **[Esprit d'équipe](/competences/esprit-equipe)**
 - **[Communication](/competences/communication)**
 - **[Autonomie](/competences/autonomie)**
   </div>

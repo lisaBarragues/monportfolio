@@ -16,13 +16,15 @@ image: "doodlejump.png"
 **Technique**
 - **[Java](/competences/java)**
 - **[Git](/competences/git)**
+- **[SQL](/competences/sql)**
 
   </div>
   <div>
 
 **Humaine**
 - **[Communication](/competences/)**
-- **[](/competences/)**
-- **[](/competences/)**
+- **[Organisation](/competences/organisation)**
+- **[Adaptabilité](/competences/adaptabilité)**
+- **[Esprit d'équipe](/competences/esprit-equipe)**
   </div>
 </div>

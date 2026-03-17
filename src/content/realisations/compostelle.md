@@ -28,9 +28,7 @@ Avec le recul, ce projet m’a aussi appris l’importance de la préparation et
 
 **Humaine**
 - **[Organisation](/competences/organisation)**
-- **[Esprit d'équipe](/competences/esprit-equipe)**
 - **[Rigueur](/competences/rigueur)**
-- **[Autonomie](/competences/autonomie)**
 - **[Adaptabilite](/competences/adaptabilite)**
 - **[Communication](/competences/communication)**
 
