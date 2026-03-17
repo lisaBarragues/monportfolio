@@ -1,8 +1,5 @@
-
-
 ---
 import Layout from "../../components/Layout.astro";
-
 
 export async function getStaticPaths() {
   const modules = import.meta.glob("../../content/competences/*.{md,mdx}");
@@ -131,3 +128,5 @@ const { frontmatter, Content } = Astro.props;
     }
 
   </style>
+
+</Layout>

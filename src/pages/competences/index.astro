@@ -1,22 +1,14 @@
 ---
 import Layout from "../../components/Layout.astro";
+import competences from "../../content/competences.json";
 
-const modules = import.meta.glob("../../content/competences/*.{md,mdx}");
-const entries = await Promise.all(
-  Object.entries(modules).map(async ([path, loader]) => {
-    const mod = await loader();
-    const slug = path.split("/").pop().replace(/\.(md|mdx)$/, "");
-    return { slug, frontmatter: mod.frontmatter };
-  })
-);
+const humaines = competences
+  .filter(e => e.type === "humaine");
+  // .sort((a,b) => (a.order ?? 999) - (b.order ?? 999));
 
-const humaines = entries
-  .filter(e => e.frontmatter.type === "humaine")
-  .sort((a,b) => (a.frontmatter.order ?? 999) - (b.frontmatter.order ?? 999));
-
-const techniques = entries
-  .filter(e => e.frontmatter.type === "technique")
-  .sort((a,b) => (a.frontmatter.order ?? 999) - (b.frontmatter.order ?? 999));
+const techniques = competences
+  .filter(e => e.type === "technique");
+  // .sort((a,b) => (a.frontmatter.order ?? 999) - (b.frontmatter.order ?? 999));
 ---
 
 <Layout title="Compétences — Portfolio">
@@ -26,8 +18,8 @@ const techniques = entries
   <div class="grid">
     {techniques.map(c => (
       <a class="card" href={`/competences/${c.slug}`}>
-        <img class="card-image" src={`/images/competences/${c.frontmatter.image}`} alt={c.frontmatter.title}/>
-        <span class="card-title">{c.frontmatter.title}</span>
+        <img class="card-image" src={`/images/competences/${c.image}`} alt={c.titre}/>
+        <span class="card-title">{c.titre}</span>
       </a>
     ))}
   </div>
@@ -36,8 +28,8 @@ const techniques = entries
   <div class="grid">
     {humaines.map(c => (
       <a class="card" href={`/competences/${c.slug}`}>
-        <img class="card-image" src={`/images/competences/${c.frontmatter.image}`} alt={c.frontmatter.title}/>
-        <span class="card-title">{c.frontmatter.title}</span>
+        <img class="card-image" src={`/images/competences/${c.image}`} alt={c.titre}/>
+        <span class="card-title">{c.titre}</span>
       </a>
     ))}
   </div>

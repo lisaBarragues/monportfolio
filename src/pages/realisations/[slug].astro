@@ -1,29 +1,132 @@
 ---
 import Layout from "../../components/Layout.astro";
-import realisations from "../../content/realisations.json";
 
-export function getStaticPaths() {
-  return realisations.map(r => ({ params: { slug: r.slug }, props: { r } }));
+export async function getStaticPaths() {
+  const modules = import.meta.glob("../../content/realisations/*.{md,mdx}");
+
+  const paths = [];
+  for (const path in modules) {
+    const mod = await modules[path]();
+    const slug = path.split("/").pop().replace(/\.(md|mdx)$/, "");
+    paths.push({
+      params: { slug },
+      props: {
+        frontmatter: mod.frontmatter,
+        Content: mod.default
+      }
+    });
+  }
+  return paths;
 }
 
-const { r } = Astro.props;
+const { frontmatter, Content } = Astro.props;
 ---
 
-<Layout title={`${r.titre} — Réalisations`}>
-  <a href="/realisations" style="opacity:.8">← Retour</a>
-  <h1>{r.titre}</h1>
+<Layout title={`${frontmatter.title} — Réalisations`}>
+  <a href="/realisations" class="back">← Retour</a>
+  
+  <section class="realisation-layout">
 
-  <p style="opacity:.85">
-    Résumé : contexte, objectif, tes actions, résultats.
-  </p>
+   <div class="text">
+      <h1>{frontmatter.title}</h1>
 
-  <h2>Ce que j’ai fait</h2>
-  <ul style="opacity:.85">
-    <li>Action 1</li>
-    <li>Action 2</li>
-    <li>Action 3</li>
-  </ul>
+      <article class="prose">
+        <Content />
+      </article>
+    </div>
 
-  <h2>Technos</h2>
-  <p style="opacity:.85">Unity / Unreal / Java / Rust / etc.</p>
+    <div class="image-container">
+      <img 
+        src={`/images/realisations/${frontmatter.image}`} 
+        alt={frontmatter.title}
+      />
+    </div>
+
+  </section>
+
+  <style>
+    .back{
+      opacity:.7;
+      text-decoration:none;
+    }
+
+    .realisation-layout{
+      display:grid;
+      grid-template-columns: 1fr 220px;
+      gap:50px;
+      align-items:start;
+      margin-top:20px;
+    }
+
+    .image-container{
+      position:sticky;
+      top:120px;
+    }
+
+    .image-container img{
+      width:200px;
+      height:200px;
+      object-fit:contain;
+      filter: drop-shadow(0 10px 25px rgba(0,0,0,.4));
+    }
+
+    h1{
+      margin-bottom:18px;
+      font-size:2rem;
+      letter-spacing:.5px;
+    }
+
+    /* STYLE TEXTE PREMIUM */
+    .prose{
+      line-height:1.75;
+      font-size:1rem;
+      max-width:none;
+      text-align: justify;
+      color: var(--text);
+    }
+
+    .prose :global(p){
+      margin-bottom:18px;
+    }
+
+    .prose :global(strong){
+      font-weight:600;
+      letter-spacing:.3px;
+    }
+
+    .prose :global(em){
+      opacity:.9;
+      font-style:italic;
+    }
+
+    .prose :global(ul){
+      margin:18px 0;
+      padding-left:20px;
+    }
+
+    .prose :global(li){
+      margin-bottom:8px;
+    }
+
+    .prose :global(a){
+      text-decoration:underline;
+      text-underline-offset:4px;
+    }
+
+    /* responsive */
+    @media (max-width: 900px){
+      .competence-layout{
+        grid-template-columns:1fr;
+      }
+
+      .image-container{
+        order:-1;
+        position:static;
+        margin-bottom:20px;
+        text-align:center;
+      }
+    }
+
+  </style>
+   
 </Layout>
