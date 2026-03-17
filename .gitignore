@@ -2,9 +2,11 @@
 dist/
 # generated types
 .astro/
+astro.config.mjs
 
 # dependencies
 node_modules/
+package*
 
 # logs
 npm-debug.log*
@@ -22,3 +24,4 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
