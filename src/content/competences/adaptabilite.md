@@ -5,7 +5,6 @@ order: 4
 image : "adaptabilite.png"
 ---
 
-
 **Ma définition**
 
 L’adaptabilité, c’est pour moi la capacité à faire fonctionner les choses, peu importe les circonstances. Cela demande de la souplesse, de la réactivité, mais aussi une certaine sérénité face à l’imprévu.
