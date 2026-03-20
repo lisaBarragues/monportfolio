@@ -1,10 +1,12 @@
 ---
 title: "Catan"
 order: 3
-image: "catan.png"
+image: "catan/catan.png"
 ---
 
 Dans le cadre du premier semestre de ma L2 informatique, nous devions développer une version informatique complète de Catan en Java. Le projet devait proposer deux modes de jeu : une version textuelle entièrement jouable dans le terminal et une version graphique avec interface utilisateur. Il fallait implémenter les principales mécaniques du jeu : gestion des ressources, construction de routes, colonies et villes, échanges entre joueurs et ports, cartes développement, déplacement du voleur et conditions de victoire. Le projet demandait une véritable modélisation orientée objet ainsi qu’une réflexion sur l’architecture logicielle.
+
+<img style="float:right; margin: 0 0 1rem 1.5rem; height:500px; width:750px;" src="/images/realisations/catan/catangameplay.png" alt="catangameplay"/>
 
 Ce projet a été l’un des plus marquants de mes débuts en programmation orientée objet. Il m’a confrontée pour la première fois à la modélisation d’un système complexe : le jeu de société Catan, avec son plateau, ses règles et ses nombreuses interactions entre les joueurs. Travailler sur ce projet m’a poussée à structurer ma réflexion, à collaborer efficacement et à persévérer malgré des difficultés techniques. Avec le recul, il a renforcé ma confiance dans ma capacité à mener un projet de développement conséquent.
 

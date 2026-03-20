@@ -1,12 +1,14 @@
 ---
 title: "Compostelle"
 order: 5
-image: "compostelle.png"
+image: "compostelle/compostelle.png"
 ---
 
 Ce projet consistait à accomplir le chemin de Saint-Jacques-de-Compostelle, une marche de plusieurs semaines à travers différentes régions et paysages. Ma soeur et moi aimions déjà beaucoup randonner, mais nous avions envie de vivre une expérience plus longue et plus immersive que nos sorties habituelles à la journée. L’idée était de partir toutes les deux, de nous déconnecter du quotidien et d’avancer au rythme de nos pas en suivant un itinéraire chargé d’histoire et de rencontres.
 
 Marcher jusqu’à Saint-Jacques-de-Compostelle a été une expérience très formatrice, bien au-delà d’un simple voyage. Ce projet personnel m’a confrontée à mes limites physiques, mais aussi à ma capacité à m’organiser sur plusieurs semaines et à m’adapter à des situations imprévues. Cette expérience a eu un impact important sur mes compétences humaines : persévérance, organisation, gestion de l’imprévu, entraide et ouverture aux autres.
+
+<img style="float:left; margin: 0 1.5rem 1rem 0; height:600px; width:500px;" src="/images/realisations/compostelle/compostelle.jpeg" alt="compostelle"/>
 
 Les objectifs étaient à la fois personnels et humains : réussir à parcourir le chemin jusqu’au bout, profiter de chaque étape et découvrir le pays d’une manière différente. Nous souhaitions également partager une expérience forte entre soeurs et prouver que nous étions capables de mener à bien un projet exigeant sur la durée.
 

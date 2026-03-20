@@ -1,12 +1,14 @@
 ---
 title: "Mon alternance chez Easybourse"
 order: 2
-image: "alternance.png"
+image: "alternance/alternance.png"
 ---
 
 Mon alternance de deux ans chez EasyBourse, un courtier en ligne filiale de La Banque Postale, m’a permis de passer d’un cadre académique à un environnement professionnel réel, avec des enjeux concrets pour l’entreprise. EasyBourse propose une plateforme permettant aux particuliers d’investir en bourse de manière sécurisée et accessible. Durant cette expérience, j’ai travaillé sur plusieurs projets liés à l’analyse de données, au reporting et à l’automatisation de processus internes.
 
 J’ai notamment participé à la mise en place de reportings réglementaires et business, à des projets de segmentation client ainsi qu’à la création de dashboards destinés à améliorer la connaissance des clients et la vision globale de l’activité de l’entreprise. En parallèle, j’ai contribué à l’automatisation de processus existants et à la reprise d’anciens développements afin de les adapter aux technologies actuelles, dans une logique de réduction de la dette technique et d’amélioration de l’efficacité opérationnelle.
+
+<img style="display:block; margin: 1rem auto; height:90px; width:650px;" src="/images/realisations/alternance/dashboardglob.png" alt="dashglob"/>
 
 Les objectifs de ces projets étaient multiples. Pour l’entreprise, il s’agissait de fournir à la direction et aux équipes métiers des outils de reporting fiables et exploitables, permettant d’avoir une vision claire sur les clients, l’activité et les indicateurs clés de performance. Les reportings réglementaires étaient également indispensables pour garantir la conformité de l’entreprise avec les obligations légales. L’automatisation de certains traitements permettait quant à elle de réduire les tâches manuelles chronophage et d’améliorer la fiabilité des données.
 
@@ -29,6 +31,8 @@ Les résultats ont été très positifs. Les outils de reporting développés on
 Sur le plan personnel, cette alternance m’a permis d’acquérir de solides compétences techniques en SQL, Python et gestion de version avec GitLab. J’ai également appris à travailler sur des projets collaboratifs, à tester mes développements en environnement de recette et à participer à des mises en production.
 Sur le plan humain, cette expérience a renforcé ma capacité de communication, notamment pour comprendre les besoins métiers et échanger avec des équipes non techniques. Elle m’a également permis de développer mon adaptabilité et mon esprit d’équipe dans un environnement professionnel exigeant.
 À court terme, cette alternance m’a permis de consolider mes compétences techniques et de mieux comprendre le fonctionnement d’une entreprise et de ses enjeux business. À moyen terme, elle m’a apporté une vision plus globale du rôle du développement informatique dans la prise de décision stratégique et l’optimisation des processus. Aujourd’hui, cette expérience constitue un socle essentiel de mon parcours professionnel et a confirmé mon envie d’évoluer dans des environnements techniques exigeants et collaboratifs.
+
+<img style="display:block; margin: 1rem auto; height:100px; width:650px;" src="/images/realisations/alternance/dashboardcli.png" alt="dashcli"/>
 
 
 <h3>Compétences associées</h3>
