@@ -1,37 +1,37 @@
 [
   {
+    "slug": "catan",
+    "titre": "Jeu Catan",
+    "annee": "2021",
+    "image": "catan/catan.png",
+    "resume": "Développement d’une adaptation du jeu de société Catan en Java"
+  },
+  {
+    "slug": "doodle-jump",
+    "titre": "Jeu Doodle Jump",
+    "annee": "2022",
+    "image": "doodlejump/doodlejump.png",
+    "resume": "Développement d’un clone du jeu DoodleJump en Java"
+  },
+  {
     "slug": "compostelle",
     "titre": "Compostelle",
     "annee": "2024",
-    "image": "compostelle.png",
+    "image": "compostelle/compostelle.png",
     "resume": "Parcours du chemin de Saint-Jacques-de-Compostelle"
   },
   {
     "slug": "myplatformer",
     "titre": "MyPlatformer",
     "annee": "2025",
-    "image": "myplatformer.png",
+    "image": "myplatformer/myplatformer.png",
     "resume": "Développement d’un jeu de plateforme 2D en Python"
-  },
-  {
-    "slug": "doodle-jump",
-    "titre": "Jeu Doodle Jump",
-    "annee": "2022",
-    "image": "doodlejump.png",
-    "resume": "Développement d’un clone du jeu DoodleJump en Java"
-  },
-  {
-    "slug": "catan",
-    "titre": "Jeu Catan",
-    "annee": "2021",
-    "image": "catan.png",
-    "resume": "Développement d’une adaptation du jeu de société Catan en Java"
   },
   {
     "slug": "alternance",
     "titre": "Mon alternance",
     "annee": "2025/2026",
-    "image": "alternance.png",
+    "image": "alternance/alternance.png",
     "resume": "Mon alternance en tant que développeuse data chez Easybourse"
   }
 ]

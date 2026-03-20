@@ -2,19 +2,21 @@
 title: "MyPlatformer"
 #  inutile
 order: 4
-image: "myplatformer.png"
+image: "myplatformer/myplatformer.png"
 ---
 
 MyPlatformer est un jeu de plateforme en 2D développé en Python sur mon temps personnel, en collaboration avec un ami. L’objectif était de créer un jeu simple mais complet, comprenant un personnage jouable, des mécaniques de saut et de déplacement, des plateformes, des ennemis et un système de collisions fonctionnel.
-Contrairement à mes autres réalisations, ce projet n’était ni académique ni professionnel : rien ne nous obligeait à aller au bout du développement. Il s’agissait d’un défi personnel visant à approfondir mes compétences en Python et à apprendre à structurer un projet de jeu complet, de la conception jusqu’à un produit jouable. Cette réalisation m’a permis de développer mon autonomie, ma rigueur et ma capacité à mener un projet sur la durée sans contrainte extérieure.
+Contrairement à mes autres réalisations, ce projet n’était ni académique ni professionnel. Il s’agissait d’un défi personnel visant à approfondir mes compétences en Python et à apprendre à structurer un projet de jeu complet, de la conception jusqu’à un produit jouable. Cette réalisation m’a permis de développer mon autonomie, ma rigueur et ma capacité à mener un projet sur la durée sans contrainte extérieure.
 
-Le projet avait une double ambition : produire un jeu agréable à jouer et approfondir notre maîtrise de Python et de ses bibliothèques dédiées au développement de jeux. Nous souhaitions comprendre concrètement comment fonctionne un jeu : gestion des événements, boucle de jeu, collisions, architecture logicielle et organisation du code.
+Le projet avait une double ambition : produire un jeu agréable et approfondir notre maîtrise de Python et de ses bibliothèques. Nous souhaitions comprendre concrètement comment fonctionne un jeu : gestion des événements, boucle de jeu, collisions, architecture logicielle et organisation du code.
 
-Le projet a été réalisé entièrement sur notre temps libre. Afin de conserver une progression régulière, nous avons décidé de l’aborder comme un projet structuré : réunions régulières, définition d’objectifs techniques et utilisation d’un dépôt GitLab pour versionner le code.
+Le projet étant réalisé sur notre temps afin de conserver une progression régulière, nous avons décidé de l’aborder comme un projet structuré : réunions régulières, définition d’objectifs techniques et utilisation d’un dépôt GitLab pour versionner le code.
 
 L’un des principaux enjeux était de maintenir la motivation sur un projet personnel sans échéance imposée. Il est en effet facile d’abandonner lorsque des difficultés techniques apparaissent. Nous devions donc faire preuve de rigueur et d’organisation afin de continuer à progresser. L’autre enjeu concernait l’apprentissage technique : comprendre les mécanismes internes d’un jeu 2D, notamment la gestion de la boucle de jeu, des événements clavier, des collisions et de l’architecture générale.
 
 Mon ami et moi avons occupé un double rôle de développeurs et de chefs de projet. Nous avons partagé les responsabilités techniques et pris ensemble les décisions concernant l’architecture du projet et les fonctionnalités à développer. Des réunions régulières nous permettaient de discuter des choix techniques, d’organiser les prochaines étapes et de maintenir une vision commune du projet.
+
+<img style="float:right; margin: 0 0 1rem 1.5rem; height:500px; width:750px;" src="/images/realisations/myplatformer/myplatformer.gif" alt="myplatformer"/>
 
 Le développement a commencé par une phase de recherche sur les bibliothèques Python adaptées au développement de jeux 2D. Après comparaison de plusieurs solutions, nous avons choisi d’utiliser Pygame, qui permet de gérer le rendu graphique, les événements clavier et la boucle de jeu. Nous avons notamment utilisé pygame.Rect pour les collisions, pygame.locals pour la gestion des constantes clavier et pygame.time.Clock pour contrôler la fréquence d’exécution du jeu.
 
