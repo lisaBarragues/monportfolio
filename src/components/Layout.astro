@@ -20,41 +20,43 @@ const { title = "Portfolio", description = "" } = Astro.props;
 </html>
 
 <style>
-  :root{
-    --bg: #120F12;
-    --surface: #181218;
-    --surface-2: #201620;
-    --border: rgba(232,160,191,.18);
+:root {
+  --bg: #1C1A1E;
+  --surface: #232027;
+  --surface-2: #2B2730;
+  --border: rgba(210, 185, 220, 0.12);
+  --accent: #B06090;
+  --accent-2: #D4A8C4;
+  --text: #EDE8EC;
+  --muted: rgba(237, 232, 236, 0.58);
+  --radius: 18px;
+}
 
-    --accent: #9F2B68;
-    --accent-2: #E8A0BF;
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  background:
+    radial-gradient(800px 500px at 15% 10%, rgba(176, 96, 144, 0.10), transparent 65%),
+    radial-gradient(700px 400px at 80% 20%, rgba(212, 168, 196, 0.07), transparent 60%),
+    var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  font-size: 16px;
+}
 
-    --text: #F6F2F5;
-    --muted: rgba(246,242,245,.78);
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 36px 24px 80px;
+}
 
-    --radius: 22px;
-  }
+:global(.card) {
+  background: linear-gradient(160deg, rgba(255,255,255,.025), rgba(255,255,255,.008));
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
 
-  body{
-    margin:0;
-    font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial;
-    background: radial-gradient(900px 600px at 20% 10%, rgba(159,43,104,.20), transparent 60%),
-                radial-gradient(900px 600px at 85% 25%, rgba(232,160,191,.12), transparent 55%),
-                var(--bg);
-    color: var(--text);
-  }
-
-  .container{
-    max-width: 1300px;
-    margin: 0 auto;
-    padding: 28px 18px 60px;
-  }
-
-  :global(.card){
-    background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.01));
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-  }
-  :global(a){ color: inherit; }
-  :global(.muted){ color: var(--muted); }
+:global(a) { color: var(--accent-2); text-decoration: none; }
+:global(a:hover) { color: var(--text); }
+:global(.muted) { color: var(--muted); }
 </style>
