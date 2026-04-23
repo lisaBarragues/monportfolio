@@ -25,7 +25,6 @@ J'ai débuté le projet par une phase d'**analyse fonctionnelle** des règles du
 Le plateau est constitué d'un ensemble de tuiles, chaque tuile a un **nom**, un **numéro** et un **tableau de quatre** `Arete`  représentant ses côtés, c'est-à-dire les emplacements où les constructions peuvent être posées.
 Pour les **constructions**, j'ai défini une **classe abstraite** `Construction` dont héritaient `Route`, `Colonie` et `Ville`, chacune **encapsulant** sa propre logique de validation de placement et de calcul de coût. Des **interfaces** ont structuré les comportements partagés, notamment pour les entités participant au cycle de production et de consommation de ressources.
 
-<img style="float:right; margin: 0 0 1rem 1.5rem; height:500px; width:700px;" src="/images/realisations/catan/catangameplay.png" alt="catangameplay"/>
 
 **Implémentation de la version textuelle**
 
@@ -35,7 +34,8 @@ Cette version englobait l'**ensemble du cycle du jeu**, c'est-à-dire la distrib
 **Implémentation de la version graphique**
 
 La **version graphique** a été construite en surcouche de la **logique métier** existante. J'ai modélisé le plateau (tuiles carrés, intersections et routes) avec des **classes internes** représentant chaque entité graphique. La gestion des interactions reposait sur des écouteurs d'événements souris (`MouseListener`), et les actions nécessitant un choix de la part du joueur, comme la sélection d'une ressource lors d'un échange ou la désignation de la case voleur s'affichaient dans des **boîtes de dialogue** dédiées.
-À l'approche de la date de rendu, je me suis consacrée à la **stabilisation du jeu** et à la **correction des bugs**, notamment des `NullPointerException` dues à une mauvaise initialisation de certaines variables lors de séquences d'actions peu fréquentes.
+À l'approche de la date de rendu, je me suis consacrée à la **stabilisation du jeu** et à la **correction des bugs**, notamment des `NullPointerException` dues à une mauvaise initialisation de certaines variables lors de séquences d'actions peu fréquentes. \
+<img style="float:center; margin: 1.5rem 0 0 1.5rem; height:500px; width:700px;" src="/images/realisations/catan/catangameplay.png" alt="catangameplay"/>
 
 Certaines règles du jeu se sont révélées particulièrement **complexes** à implémenter. Par exemple, la construction de routes ou de colonies nécessitait de nombreuses vérifications d'adjacence pour respecter les règles du jeu. La gestion des cartes développement et des bonus comme le **plus long chemin** demandait également une logique plus avancée, notamment un **algorithme de parcours** de routes pour en déterminer le détenteur à chaque tour.
 
