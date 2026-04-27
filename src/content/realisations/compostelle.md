@@ -29,15 +29,15 @@ J'ai commencé par définir un **budget journalier** afin de gérer nos dépense
 
 Pour planifier les étapes, je me suis aidée du "**Miam Miam Dodo**", le guide de référence des pélerins, qui recense les hébergements, les distances, le dénivelé et les points de ravitaillement disponibles sur le chemin. Pour chaque étape, il fallait **prévoir** le nombre de kilomètre à parcourir, le logement dans lequel nous passerions la nuit et les points d'eau annoncés. En effet, ce dernier point est important car sans y prêter attention, il est très vite possible de se retrouver à marcher de longues heures sans accès à de l'eau.
 
-Malgré cette **organisation**, je me suis rendue compte sur le chemin, que l'on ne pouvait pas tout prévoir, et qu'il fallait savoir s'**adapter rapidement**. Notre point de départ a donc été **Figeac**, une commune du Lot.
+Malgré cette **organisation**, je me suis rendue compte sur le chemin, que l'on ne pouvait pas tout prévoir, et qu'il fallait savoir s'**[adapter](/competences/adaptabilite) rapidement**. Notre point de départ a donc été **Figeac**, une commune du Lot.
 
 **Le chemin au quotidien**
 
-Chaque matin demandait une **vraie organisation**. Avant de partir de l'auberge, il fallait toujours s'assurer de ne rien oublier. Je devais donc récupérer les vêtements mis à sécher la veille, prendre la nourriture du frigo nous appartenant, rassembler les bâtons et s'assurer que mon sac était correctement préparé. Un oubli pouvait avoir de réelles conséquences sur la journée, puisqu'il pouvait nous forcer à faire demi-tour. Cette routine du matin est vite devenue un **réflexe**.
+Chaque matin demandait une **vraie [organisation](/competences/organisation)**. Avant de partir de l'auberge, il fallait toujours s'assurer de ne rien oublier. Je devais donc récupérer les vêtements mis à sécher la veille, prendre la nourriture du frigo nous appartenant, rassembler les bâtons et s'assurer que mon sac était correctement préparé. Un oubli pouvait avoir de réelles conséquences sur la journée, puisqu'il pouvait nous forcer à faire demi-tour. Cette routine du matin est vite devenue un **réflexe**.
 
 Un sujet qui demandait une **anticipation constante** était la gestion des repas. Les supermarchés n'étaient pas toujours disponibles sur le chemin, il fallait donc **réfléchir à l'avance** à ce que nous allions manger sur les prochaines étapes, tout en évitant de surcharger nos sacs. Trouver le **bon équilibre** entre prévoir suffisamment et rester légère était un **exercice quotidien**.
 
-Les rencontres avec d'autres pèlerins ont aussi été une part importante de l'expérience. Échanger, s'entraider, partager des bons plans sur les hébergements ou les étapes à venir, cette **communication** naturelle entre marcheurs faisait partie intégrante du chemin.
+Les rencontres avec d'autres pèlerins ont aussi été une part importante de l'expérience. Échanger, s'entraider, partager des bons plans sur les hébergements ou les étapes à venir, cette **[communication](/competences/communication)** naturelle entre marcheurs faisait partie intégrante du chemin.
 
 
 **Gestion des imprévus et adaptation**
@@ -54,8 +54,8 @@ Après **55 jours** de marche, arriver devant la cathédrale de **Santiago** a �
 
 ## Résultats
 
-Cette aventure a été une **réussite**. J'ai prouvé que j'étais capable de faire preuve d'une grande **organisation** et de m'adapter face à l'imprévu.
-La **communication** a aussi été essentielle, que ce soit avec ma soeur pour coordonner nos décisions ou avec les personnes rencontrées sur le chemin. Finalement, j'ai pu prendre du recul et renforcer ma relation avec ma soeur grâce à tous ces moments partagés.
+Cette aventure a été une **réussite**. J'ai prouvé que j'étais capable de faire preuve d'une grande **[organisation](/competences/organisation)** et de m'adapter face à l'imprévu.
+La **[communication](/competences/communication)** a aussi été essentielle, que ce soit avec ma soeur pour coordonner nos décisions ou avec les personnes rencontrées sur le chemin. Finalement, j'ai pu prendre du recul et renforcer ma relation avec ma soeur grâce à tous ces moments partagés.
 
 ## Les lendemains du projet
 
@@ -67,7 +67,7 @@ Aujourd’hui encore, le **chemin de Compostelle** reste une expérience personn
 
 ## Mon regard critique
 
-Ce chemin a été une expérience très **formatrice**, ma principale valeur ajoutée a été ma **rigueur**, elle m'a permis de maintenir un effort quotidien constant et également de remotiver ma soeur lorsque c'était nécessaire. Le simple fait de me voir continuer à avancer la beaucoup aidée à tenir. Cette dynamique nous a portées toutes les deux jusqu'au bout.
+Ce chemin a été une expérience très **formatrice**, ma principale valeur ajoutée a été ma **[rigueur](/competences/rigueur)**, elle m'a permis de maintenir un effort quotidien constant et également de remotiver ma soeur lorsque c'était nécessaire. Le simple fait de me voir continuer à avancer la beaucoup aidée à tenir. Cette dynamique nous a portées toutes les deux jusqu'au bout.
 
 Ce que je retire surtout de cette expérience, c'est une **confiance en moi** renforcée. Bien qu'avec le recul, j'aurais tout de même gagné à mieux préparer certains aspects **organisationnels**, notamment les hébergements sur les étapes les plus fréquentées pour éviter certains moments de stress inutiles.
 
@@ -79,7 +79,7 @@ Ce que je retire surtout de cette expérience, c'est une **confiance en moi** re
 **Humaine**
 - **[Organisation](/competences/organisation)**
 - **[Rigueur](/competences/rigueur)**
-- **[Adaptabilite](/competences/adaptabilite)**
+- **[Adaptabilité](/competences/adaptabilite)**
 - **[Communication](/competences/communication)**
 
 </div>

@@ -23,7 +23,7 @@ Ces expériences m’ont permis de consolider mes compétences en **Java** dans 
 
 ## Mon évolution
 
-J'ai commencé totalement **débutante** en **Java**. Mes premiers pas se sont faits à travers de petits exercices en console, centrés sur les **bases du langage** (variables, boucles, conditions, fonctions). Progressivement, les projets sont devenus **plus ambitieux**, j'ai appris à **structurer** mon code, à **appliquer** des design patterns, à **utiliser** des bibliothèques externes, et à **organiser** le développement de bout en bout (de l'architecture à l'interface graphique). Aujourd'hui, je suis capable de **concevoir une application Java complète** avec une **architecture logique** et **maintenable**.
+Mes premiers pas en **Java** se sont faits à travers de petits exercices en console, centrés sur les **bases du langage** (variables, boucles, conditions, fonctions). Progressivement, les projets sont devenus **plus ambitieux**, j'ai appris à **structurer** mon code, à **appliquer** des design patterns, à **utiliser** des bibliothèques externes, et à **organiser** le développement de bout en bout (de l'architecture à l'interface graphique). Aujourd'hui, je suis capable de **concevoir une application Java complète** avec une **architecture logique** et **maintenable**.
 
 Pour progresser, je vais **continuer à me former** en utilisant des ressources comme la **documentation**, ou des **livres**. L’idée est de travailler sur les points où je suis **moins à l’aise**, comme les **tests** ou la **gestion des dépendances**.
 
