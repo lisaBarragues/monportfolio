@@ -39,11 +39,12 @@ Un sujet qui demandait une **anticipation constante** était la gestion des repa
 
 Les rencontres avec d'autres pèlerins ont aussi été une part importante de l'expérience. Échanger, s'entraider, partager des bons plans sur les hébergements ou les étapes à venir, cette **communication** naturelle entre marcheurs faisait partie intégrante du chemin.
 
-<img style="float:left; margin: 0 1.5rem 1rem 0; height:600px; width:500px;" src="/images/realisations/compostelle/compostelle.jpeg" alt="compostelle"/>
 
 **Gestion des imprévus et adaptation**
 
 Les **imprévus** sont fréquents sur le chemin et nécessitent de réagir rapidement, c'est la compétence que j'ai eu le plus l'occasion de développer. Parfois à notre arrivée l'auberge était fermée, je devais donc **rapidement trouver une alternative**, même si celle-ci pouvait être de continuer la marche malgré la fatigue. À l'inverse, si une douleur était trop présente pour l'une de nous, je **réévaluais** l'étape du lendemain et réduisais les kilomètres prévus afin de nous préserver.
+
+<img style="float:left; margin: 0 1.5rem 1rem 0; height:600px; width:500px;" src="/images/realisations/compostelle/compostelle.jpeg" alt="compostelle"/>
 
 Dans ces moments difficiles, **rester positive** était essentiel, autant pour moi que pour ma soeur. Le moral de l'une influençait directement celui de l'autre, et savoir se r**emotiver mutuellement** dans les passages durs a été une vraie force tout au long du chemin.
 
