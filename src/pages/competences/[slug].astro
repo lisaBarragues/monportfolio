@@ -21,7 +21,6 @@ export async function getStaticPaths() {
 
 const { frontmatter, Content } = Astro.props;
 ---
-
 <Layout title={`${frontmatter.title} — Compétences`}>
   <a href="/competences" class="back">← Retour</a>
 
@@ -45,95 +44,102 @@ const { frontmatter, Content } = Astro.props;
   </section>
 
   <style>
-    .back{
-      opacity:.7;
-      text-decoration:none;
+    .text {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 22px;
+      padding: 18px;
+    }
+    .back {
+      opacity: .7;
+      text-decoration: none;
     }
 
-    .competence-layout{
-      display:grid;
+    .competence-layout {
+      display: grid;
       grid-template-columns: 1fr 220px;
-      gap:50px;
-      align-items:start;
-      margin-top:20px;
+      gap: 50px;
+      align-items: start;
+      margin-top: 20px;
     }
 
-    .image-container{
-      position:sticky;
-      top:120px;
+    .image-container {
+      position: sticky;
+      top: 120px;
     }
 
-    .image-container img{
-      width:200px;
-      height:200px;
-      object-fit:contain;
+    .image-container img {
+      width: 200px;
+      height: 200px;
+      object-fit: contain;
       filter: drop-shadow(0 10px 25px rgba(0,0,0,.4));
     }
 
-    h1{
-      margin-bottom:18px;
-      font-size:2rem;
-      letter-spacing:.5px;
+    h1 {
+      margin:20px;
+      margin-bottom: 18px;
+      font-size: 2rem;
+      letter-spacing: .5px;
     }
 
-    /* STYLE TEXTE PREMIUM */
-    .prose{
-      line-height:1.75;
-      font-size:1rem;
-      max-width:none;
+    .prose {
+      opacity: .92;
+      line-height: 1.55;
+      font-size: 0.98rem;
+      max-width: none;
       text-align: justify;
-      color: var(--text);
+      margin: 20px;
     }
 
-    .prose :global(p){
-      margin-bottom:18px;
+    .prose :global(p) {
+      margin: 0 0 10px;
     }
 
-    .prose :global(strong){
-      font-weight:600;
-      letter-spacing:.3px;
+    .prose :global(strong) {
+      font-weight: 600;
+      letter-spacing: .3px;
     }
 
-    .prose :global(em){
-      opacity:.9;
-      font-style:italic;
+    .prose :global(em) {
+      opacity: .9;
+      font-style: italic;
     }
 
-    .prose :global(ul){
-      margin:18px 0;
-      padding-left:20px;
+    .prose :global(ul) {
+      margin: 10px 0;
+      padding-left: 18px;
     }
 
-    .prose :global(li){
-      margin-bottom:8px;
+    .prose :global(li) {
+      margin-bottom: 8px;
     }
 
-    .prose :global(a){
-      text-decoration:underline;
-      text-underline-offset:4px;
-      color: var(--accent-2);              /* couleur principale */
-      border-bottom: 1px solid var(--accent-2);
-      transition: .2s ease;
-    }
-    .prose :global(a:hover){
+    .prose :global(a:link),
+    .prose :global(a:visited) {
+      text-decoration: none;
+      font-weight: bold;
       color: var(--accent);
-      border-bottom: 1px solid var(--accent);
+    }
+
+    .prose :global(a:active) {
+      text-decoration: none;
+      font-weight: bold;
+      background-color: var(--accent);
     }
 
     /* responsive */
-    @media (max-width: 900px){
-      .competence-layout{
-        grid-template-columns:1fr;
+    @media (max-width: 900px) {
+      .competence-layout {
+        grid-template-columns: 1fr;
       }
 
-      .image-container{
-        order:-1;
-        position:static;
-        margin-bottom:20px;
-        text-align:center;
+      .image-container {
+        order: -1;
+        position: static;
+        margin-bottom: 20px;
+        text-align: center;
       }
     }
-
   </style>
 
 </Layout>

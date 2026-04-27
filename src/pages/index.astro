@@ -142,11 +142,10 @@ import Layout from "../components/Layout.astro";
   <style>
     /* conteneur */
     .hero{
-      background: rgba(255,255,255,.03);
-      border: 1px solid rgba(255,255,255,.08);
+      background: var(--surface);
+      border: 1px solid var(--border);
       border-radius: 22px;
       padding: 18px;
-      overflow: hidden; /* pour contenir le float */
     }
     
     /* image flottante = texte à droite + dessous */
@@ -183,13 +182,6 @@ import Layout from "../components/Layout.astro";
       margin: 0 0 10px;
     }
     
-    .section{
-      margin-top: 22px;
-      background: rgba(255,255,255,.02);
-      border: 1px solid rgba(255,255,255,.06);
-      border-radius: 22px;
-      padding: 18px;
-    }
     .muted{ opacity:.8; margin: 8px 0 0; }
     
     /* responsive : sur mobile, image au-dessus */
@@ -224,7 +216,7 @@ import Layout from "../components/Layout.astro";
     .timeline::before{
       content:"";
       position:absolute;
-      left: 110px;
+      left: 107px;
       top: 0;
       bottom: 0;
       width: 2px;
@@ -287,7 +279,7 @@ import Layout from "../components/Layout.astro";
       padding:14px 16px;
       border-radius:18px;
       border:1px solid rgba(255,255,255,.10);
-      background:rgba(255,255,255,.03);
+      background: var(--surface);
     }
     .card-content{
       flex:1;
@@ -347,8 +339,6 @@ import Layout from "../components/Layout.astro";
         padding-top: 0;
         margin-bottom: 6px;
       }
-
-     
     }
   </style>
 </Layout>
