@@ -5,13 +5,12 @@ order: 1
 image : java.png
 ---
 
-**Ma définition**
+## Ma définition
 
 **Java** est un **langage de programmation orienté objet**, **fortement typé** et **multiplateforme**. Il permet de développer des applications **robustes** et **évolutives**, en particulier grâce à ses **nombreux outils** et **bibliothèques**.
 
----
 
-**Preuve de mon niveau**
+## Preuve de mon niveau
 
 J’ai étudié le langage **Java** tout au long de ma licence d’informatique, où il occupait une place centrale dans la formation. J’ai mis ces connaissances en pratique à travers plusieurs projets, notamment **[DoodleJump](/realisations/doodle-jump)** et **[Catan](/realisations/catan)**, qui m’ont permis de **progresser** considérablement dans ce langage, aussi bien sur la **syntaxe** que sur la **conception logicielle**.
 
@@ -21,17 +20,15 @@ J’ai appliqué les principes **SOLID**, c’est-à-dire l’**héritage**, le 
 
 Ces expériences m’ont permis de consolider mes compétences en **Java** dans des contextes **riches**, **concrets** et **complexes**, proches d’un environnement professionnel.
 
----
 
-**Mon évolution**
+## Mon évolution
 
-J'ai commencé totalement **débutante** en **Java**. Mes premiers pas se sont faits à travers de petits exercices en console, centrés sur les **bases du langage** (variables, boucles, conditions, fonctions). Progressivement, les projets sont devenus **plus ambitieux**, j'ai appris à **structurer** mon code, à **appliquer** des design patterns, à **utiliser** des bibliothèques externes, et à **organiser** le développement de bout en bout (de l'architecture à l'interface graphique). Aujourd'hui, je suis capable de **concevoir une application Java complète** avec une **architecture logique** et **maintenable**.
+Mes premiers pas en **Java** se sont faits à travers de petits exercices en console, centrés sur les **bases du langage** (variables, boucles, conditions, fonctions). Progressivement, les projets sont devenus **plus ambitieux**, j'ai appris à **structurer** mon code, à **appliquer** des design patterns, à **utiliser** des bibliothèques externes, et à **organiser** le développement de bout en bout (de l'architecture à l'interface graphique). Aujourd'hui, je suis capable de **concevoir une application Java complète** avec une **architecture logique** et **maintenable**.
 
 Pour progresser, je vais **continuer à me former** en utilisant des ressources comme la **documentation**, ou des **livres**. L’idée est de travailler sur les points où je suis **moins à l’aise**, comme les **tests** ou la **gestion des dépendances**.
 
----
 
-**Mon auto-critique**
+## Mon auto-critique
 
 Bien que je sois aujourd'hui capable de **concevoir une application Java complète et structurée**, je suis consciente que ma progression peut encore être approfondie sur plusieurs aspects. J'ai principalement travaillé Java dans des **contextes académiques** orientés jeux ou projets pédagogiques. Je souhaite désormais renforcer mes compétences dans des **environnements plus industriels**, notamment en matière de **tests automatisés** (JUnit), d'**intégration continue**, de **gestion avancée des dépendances** (Maven/Gradle).
 

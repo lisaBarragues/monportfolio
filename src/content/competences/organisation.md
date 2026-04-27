@@ -5,13 +5,12 @@ order: 6
 image : "organisation.png"
 ---
 
-**Ma définition**
+## Ma définition
 
 Être apte à organiser sa vie, ses affaires, être méthodique, ne rien laisser au hasard, être prévoyant.
 
----
 
-**Preuve de mon niveau**
+## Preuve de mon niveau
 
 L’organisation a toujours été un pilier dans ma manière de travailler et de vivre. J’aime planifier, anticiper les choses pour gagner en efficacité et en sérénité. Cette capacité s’est renforcée au fil de mes expériences.
 
@@ -23,15 +22,13 @@ Sur le plan personnel, l’organisation de mon pèlerinage sur le chemin de Sain
 
 Ces expériences m’ont permis de faire évoluer ma manière de m’organiser. J’ai appris à hiérarchiser les tâches, à fixer des objectifs réalistes et à m’appuyer sur des outils pour structurer mon travail.
 
----
 
-**Mon évolution**
+## Mon évolution
 
 Désormais, je suis capable de gérer efficacement plusieurs responsabilités en parallèle, de planifier sur le long terme comme sur le court terme, et de rester méthodique, même dans les périodes de forte pression. Mon sens de l’organisation est devenu un atout essentiel que je mobilise au quotidien dans mes études et mon travail.
 
----
 
-**Mon auto-critique**
+## Mon auto-critique
 
 Je me situe aujourd'hui à un niveau confirmé, presque expert dans certains contextes. L'organisation est une compétence que j'ai développée tôt et qui fait partie intégrante de ma façon de fonctionner. Ma marge de progression se situe surtout dans ma capacité à rester flexible quand le planning initial n'est plus possible, j'ai tendance à vouloir tout structurer, ce qui peut parfois devenir un frein quand il faut improviser.
 

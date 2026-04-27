@@ -35,106 +35,91 @@ const { frontmatter, Content } = Astro.props;
       </article>
     </div>
 
-    <div class="image-container">
-      <img 
-        src={`/images/realisations/${frontmatter.image}`} 
-        alt={frontmatter.title}
-      />
-    </div>
-
   </section>
 
-  <style>
-    .back{
-      opacity:.7;
-      text-decoration:none;
+<style>
+  .back {
+    opacity: .7;
+    text-decoration: none;
+  }
+
+  .realisation-layout {
+    margin: 25px;
+    align-items: start;
+    margin-top: 20px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 22px;
+    padding: 18px;
+  }
+
+  h1 {
+    margin: 25px;
+    margin-bottom: 18px;
+    font-size: 2rem;
+    letter-spacing: .5px;
+  }
+
+  /* PROSE — aligné sur la présentation générale */
+  .prose {
+    opacity: .92;
+    line-height: 1.55;
+    font-size: 0.98rem;
+    max-width: none;
+    text-align: justify;
+    margin: 20px;
+  }
+
+  .prose :global(p) {
+    margin: 0 0 10px;
+  }
+
+  .prose :global(strong) {
+    font-weight: 600;
+    letter-spacing: .3px;
+  }
+
+  .prose :global(em) {
+    opacity: .9;
+    font-style: italic;
+  }
+
+  .prose :global(ul) {
+    margin: 10px 0;
+    padding-left: 18px;
+  }
+
+  .prose :global(li) {
+    margin-bottom: 8px;
+  }
+
+  /* Liens — style présentation générale */
+  .prose :global(a:link),
+  .prose :global(a:visited) {
+    text-decoration: none;
+    font-weight: bold;
+    color: var(--accent);
+  }
+
+  .prose :global(a:active) {
+    text-decoration: none;
+    font-weight: bold;
+    background-color: var(--accent);
+  }
+
+  /* responsive */
+  @media (max-width: 900px) {
+    .competence-layout {
+      grid-template-columns: 1fr;
     }
 
-    .realisation-layout{
-      display:grid;
-      grid-template-columns: 1fr 220px;
-      gap:50px;
-      align-items:start;
-      margin-top:20px;
+    .image-container {
+      order: -1;
+      position: static;
+      margin-bottom: 20px;
+      text-align: center;
     }
-
-    .image-container{
-      position:sticky;
-      top:120px;
-    }
-
-    .image-container img{
-      width:200px;
-      height:200px;
-      object-fit:contain;
-      filter: drop-shadow(0 10px 25px rgba(0,0,0,.4));
-    }
-
-    h1{
-      margin-bottom:18px;
-      font-size:2rem;
-      letter-spacing:.5px;
-    }
-
-    /* STYLE TEXTE PREMIUM */
-    .prose{
-      line-height:1.75;
-      font-size:1rem;
-      max-width:none;
-      text-align: justify;
-      color: var(--text);
-    }
-
-    .prose :global(p){
-      margin-bottom:18px;
-    }
-
-    .prose :global(strong){
-      font-weight:600;
-      letter-spacing:.3px;
-    }
-
-    .prose :global(em){
-      opacity:.9;
-      font-style:italic;
-    }
-
-    .prose :global(ul){
-      margin:18px 0;
-      padding-left:20px;
-    }
-
-    .prose :global(li){
-      margin-bottom:8px;
-    }
-
-    .prose :global(a){
-      text-decoration:underline;
-      text-underline-offset:4px;
-      color: var(--accent-2);              /* couleur principale */
-      border-bottom: 1px solid var(--accent-2);
-      transition: .2s ease;
-    }
-    
-    .prose :global(a:hover){
-      color: var(--accent);
-      border-bottom: 1px solid var(--accent);
-    }
-
-    /* responsive */
-    @media (max-width: 900px){
-      .competence-layout{
-        grid-template-columns:1fr;
-      }
-
-      .image-container{
-        order:-1;
-        position:static;
-        margin-bottom:20px;
-        text-align:center;
-      }
-    }
-
-  </style>
+  }
+</style>
    
 </Layout>

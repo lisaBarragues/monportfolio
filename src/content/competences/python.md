@@ -5,13 +5,12 @@ order: 3
 image: "python.png"
 ---
 
-**Ma définition**
+## Ma définition
 
 **Python** est un langage de programmation interprété, réputé pour sa **syntaxe claire** et sa grande **lisibilité**, ce qui en fait un langage accessible aux débutants tout en restant puissant pour les experts. Grâce à sa large communauté et son riche écosystème de bibliothèques, il est utilisé dans de nombreux domaines tels que le **développement web**, la **data science**, l'**intelligence artificielle** ou encore **l’automatisation**.
 
----
 
-**Preuve de mon niveau**
+## Preuve de mon niveau
 
 J’ai découvert **Python** durant ma **licence d'informatique générale**, notamment dans des cours d’algorithmique, où nous l’utilisions pour mettre en oeuvre des algorithmes classiques (tris, recherche, récursivité…), cela m’a permis de me familiariser avec la syntaxe et d’acquérir des bases. En parallèle, j’ai également utilisé **Python** dans le cadre de projets personnels, dont le développement d’un **[jeu de plateforme sur PC](/realisations/myplatformer)**. Ce projet m’a amenée à gérer des aspects concrets comme la **détection de collision**, les **mouvements du personnage**, la **gestion des événements clavier** et l’affichage graphique avec des bibliothèques comme **« pygame »**. J’ai aussi appris à structurer mon code de manière **modulaire**, en organisant le projet autour d’entités (joueurs, ennemis, plateformes…) avec des comportements spécifiques. Ce travail m’a donné une première expérience de développement complet, de la conception à l’exécution.
 
@@ -19,18 +18,16 @@ Ensuite, en **entreprise**, **Python** est le langage **principal** que j’util
 
 C'est aussi le langage vers lequel je me tourne naturellement pour automatiser des tâches personnelles, comme par exemple convertir un grand nombre de fichiers au format Pages en format Word.
 
----
 
-**Mon évolution**
+## Mon évolution
 
 Mes débuts en Python se sont faits en douceur, sur des **programmes simples orientés console**. Ensuite, j’ai progressivement abordé des projets plus complexes, personnels ou professionnels, qui m’ont amenée à **manipuler des bibliothèques externes** et à **intéragir avec des bases de données**.
 Aujourd’hui, je suis capable de concevoir et **maintenir des scripts ou applications Python robustes**, que ce soit pour du traitement de données, de l’automatisation, ou du développement applicatif.
 
 Pour continuer à progresser, j’aimerais me **replonger dans un projet personnel**, idéalement en collaboration avec plusieurs personnes. Si j’en ai l’opportunité, je souhaiterais également **suivre une formation professionnelle** sur un framework Python afin d’approfondir mes compétences.
 
----
 
-**Mon auto-critique**
+## Mon auto-critique
 
 Aujourd’hui, Python est mon **outil de travail**, je l’utilise de manière **régulière** et **professionnelle**. Comme toujours, ma progression peut encore être approfondie, ayant principalement utilisé Python dans un contexte data et applicatif, je souhaite renforcer mes compétences sur des aspects plus avancés comme **l’optimisation des performances** et **l’écriture de tests automatisés (pytest)**.
 
