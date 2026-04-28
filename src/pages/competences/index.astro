@@ -14,6 +14,12 @@ const techniques = competences
 <Layout title="Compétences — Portfolio">
   <h1>Compétences</h1>
 
+  <p>Voici un aperçu de mes compétences, classées en deux catégories : techniques et humaines. Les graphiques ci-dessous illustrent mon niveau dans chacune d'elles.</p>
+  <div class="graph">
+    <img src="/images/competences/graph_techniques.png" alt=graphTech/>
+    <img src="/images/competences/graph_humaines.png" alt=graphHum/>
+  </div>  
+
   <h2 id="techniques" style="margin-top:35px">Techniques</h2>
   <div class="grid">
     {techniques.map(c => (
@@ -35,6 +41,15 @@ const techniques = competences
   </div>
 
   <style>
+    .graph {
+      align-items:center;
+      display:inline flow-root;
+      flex-direction:row;
+      border: 2px solid rgba(165, 18, 18, 0.1);
+      border-radius: 18px;
+      background:var(--surface);
+    }
+
     .grid{
       display:grid;
       grid-template-columns:repeat(auto-fit,minmax(220px,1fr));

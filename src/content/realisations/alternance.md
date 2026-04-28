@@ -6,7 +6,7 @@ image: "alternance/alternance.png"
 
 ## Présentation du projet
 
-Mon alternance de deux ans chez **[Easybourse](https://www.easybourse.com)**, un courtier en ligne filiale de **La Banque Postale**, m’a permis de passer d’un cadre académique à un environnement professionnel réel, avec des enjeux concrets pour l’entreprise. **EasyBourse** propose une plateforme permettant aux particuliers d’**investir** en bourse de manière **sécurisée** et **accessible**. Durant cette expérience, j’ai travaillé sur plusieurs projets liés à l’analyse de données, au reporting et à l’automatisation de processus internes.
+Mon alternance de deux ans chez <a href="https://www.easybourse.com" target="_blank">Easybourse</a>, un courtier en ligne filiale de **La Banque Postale**, m’a permis de passer d’un cadre académique à un environnement professionnel réel, avec des enjeux concrets pour l’entreprise. **EasyBourse** propose une plateforme permettant aux particuliers d’investir en bourse de manière **sécurisée** et **accessible**. Durant cette expérience, j’ai travaillé sur plusieurs projets liés à l’analyse de données, au reporting et à l’automatisation de processus internes.
 
 Ma **mission principale** était la **mise en place de rapports** réglementaires et business, ainsi que la **création de dashboards** destinés à améliorer la connaissance des clients et la vision globale de l’activité de l’entreprise. Cette mission s'installait aussi dans un contexte d'**automatisation** et de **réduction de la dette technique** très présente dans l'entreprise. J'ai donc mis en place de nouveaux rapports mais aussi repris des actuels mais encore générés manuellement.
 
@@ -40,7 +40,7 @@ Une fois les **besoins clarifiés**, j'explorais les bases de données de l’en
 Certaines se sont d'ailleurs révélées **complexes** à optimiser, notamment sur des **volumes de données importants**.
 Ces requêtes étaient ensuite intégrées dans des scripts **[Python](/competences/python)** que je développais, accompagné de l'algorithme nécessaire lorsqu'une phase de vérification ou de contrôle des données était demandé. 
 
-Ensuite, j'utilisais [Apache Airflow](https://airflow.apache.org), un outil d'**orchestration de workflows**, pour **planifier** et **automatiser** l'exécution de ces traitements. Cela impliquait de rédiger un **DAG** (Directed Acylic Gragh), qui consiste en un code **Python** afin de définir l'ordre et la fréquence d'exécution des différentes tâches. Tous les lundis à 8h ou bien tous les 1er du mois par exemple. Cet outil nous permet de mettre en place la méthode **ARC**.
+Ensuite, j'utilisais <a href="https://airflow.apache.org" target="_blank">Apache Airflow</a>, un outil d'**orchestration de workflows**, pour **planifier** et **automatiser** l'exécution de ces traitements. Cela impliquait de rédiger un **DAG** (Directed Acylic Gragh), qui consiste en un code **Python** afin de définir l'ordre et la fréquence d'exécution des différentes tâches. Tous les lundis à 8h ou bien tous les 1er du mois par exemple. Cet outil nous permet de mettre en place la méthode **ARC**.
 
 <img style="display:block; margin: 1rem auto; width:100%; height:100%;" src="/images/realisations/alternance/airflow_interface.png" alt="airflow"/>
 
@@ -64,19 +64,19 @@ Après avoir obtenue **toutes les validations nécessaires**, je passais à la *
 
 Les résultats ont été **très positifs**. Les reporting développés ont permis d’apporter une vision plus claire de l’activité de l’entreprise, ce qui a facilité la prise de décision pour le marketing, le service client et le CODIR. L’automatisation de certains traitements a également permis de **réduire les tâches manuelles** et d’améliorer la fiabilité des données produites.
 
-Pour **moi**, cette mission a été une **vraie montée en compétences**. J'ai appris à travailler pour la première fois dans un environnement professionnel. J'ai pu **collaborer avec des équipes non techniques** et aux profils très différents. J'ai livré des **développements de qualité** dans des délais impartis et voir mes rapports utilisés en production et **présentés en CODIR** a été une grande fierté.
+Pour moi, cette mission a été une **vraie montée en compétences**. J'ai appris à travailler pour la première fois dans un environnement professionnel. J'ai pu **collaborer avec des équipes non techniques** et aux profils très différents. J'ai livré des **développements de qualité** dans des délais impartis et voir mes rapports utilisés en production et **présentés en CODIR** a été une grande fierté.
 
 ## Mon regard critique
 
 Ma **principale valeur ajoutée** sur ce projet a été mon **autonomie** et ma **rigueur**. Dès le début j'ai pris les devants en explorant les bases de données, en proposant des solutions et en revenant vers mon maître d'apprentissage avec des questions précises plutôt que des blocages. Cette façon de travailler m'a permis d'avancer **efficacement** et de montrer que j'étais capable de **gérer des développements** de **manière indépendante**.
 
-Ce que je retiens surtout de cette expérience, c'est l'importance de la communication. J'ai appris à **adapter mon discours** selon mon interlocuteur, qu'il soit développeur, ou bien qu'il fasse partie de la direction, j'ai **reformulé** des besoins techniques en termes compréhensibles et inversement. 
+Ce que je retiens surtout de cette expérience, c'est l'importance de la communication. J'ai appris à **[adapter](/competences/adaptabilite) mon discours** selon mon interlocuteur, qu'il soit développeur, ou bien qu'il fasse partie de la direction, j'ai **reformulé** des besoins techniques en termes compréhensibles et inversement. 
 
 ## Les lendemains du projet
 
 À court terme, cette mission m'a permis de **consolider mes compétences** en **[SQL](/competences/sql)**, **[Python](/competences/python)** et **[Git](/competences/git)**, mais surtout de comprendre comment le développement informatique peut avoir un impact concret sur le fonctionnement d'une entreprise et lui être bénéfique.
 
-À moyen terme, elle m'a appris à **communiquer avec des équipes non techniques**, à **comprendre** les besoins métiers et à y **répondre de manière adaptée**. Être **capable de vulgariser** des termes techniques et d'expliquer pourquoi une demande n'est pas possible est une vraie compétence que j'ai pu apprendre.
+À moyen terme, elle m'a appris à **[communiquer](/competences/communication) avec des équipes non techniques**, à **comprendre** les besoins métiers et à y **répondre de manière adaptée**. Être **capable de vulgariser** des termes techniques et d'expliquer pourquoi une demande n'est pas possible est une vraie compétence que j'ai pu apprendre.
 
 Aujourd’hui, cette expérience constitue un **socle essentiel** de mon parcours professionnel et **a confirmé mon envie** d’évoluer dans des environnements techniques exigeants et collaboratifs.
 
@@ -98,5 +98,6 @@ Aujourd’hui, cette expérience constitue un **socle essentiel** de mon parcour
 - **[Esprit d'équipe](/competences/esprit-equipe)**
 - **[Adaptabilité](/competences/adaptabilite)**
 - **[Communication](/competences/communication)**
+- **[Rigueur](/competences/rigueur)**
   </div>
 </div>

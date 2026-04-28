@@ -7,9 +7,9 @@ image: "doodlejump/doodlejump.png"
 ## Présentation du projet
 
 <div style="clear:both;"></div>
-<img style="float:left; margin: 0 1.5rem 1rem 0;" src="/images/realisations/doodlejump/doodlejump.gif" alt="gif-doodlejump"/>
+<img style="float:left; margin: 0 1.5rem 1rem 0; border-radius: 8px" src="/images/realisations/doodlejump/doodlejump.gif" alt="gif-doodlejump"/>
 
-Lors de ma L3 d’informatique générale à l’[Université Paris Cité](https://u-paris.fr), j’ai participé à la réalisation d’un jeu en **Java** inspiré de **Doodle Jump** en équipe de cinq. L’objectif était de **développer une version personnalisée du jeu** tout en respectant les bonnes pratiques de développement : structuration du code, utilisation de **design patterns** et gestion de version avec **Git**.
+Lors de ma L3 d’informatique générale à l’<a href="https://u-paris.fr" target="_blank">Université Paris Cité</a>, j’ai participé à la réalisation d’un jeu en **Java** inspiré de **Doodle Jump** en équipe de cinq. L’objectif était de **développer une version personnalisée du jeu** tout en respectant les bonnes pratiques de développement : structuration du code, utilisation de **design patterns** et gestion de version avec **[Git](/competences/git)**.
 
 ## Objectifs, enjeux et risques
 
@@ -22,7 +22,7 @@ Plusieurs **risques** existaient, le premier était la **coordination**, cinq pe
 
 ## Étapes de réalisation
 
-Le projet a été mené en suivant la **méthode agile** avec des **réunions hebdomadaires** encadrées par une enseignante. Ces points réguliers nous permettaient d'**échanger sur l’avancement**, de nous **répartir** les tâches et d'**ajuster** nos choix techniques. Nous avons également mis en place un **canal de communication** dédié pour **faciliter les échanges** en dehors des réunions. Cette organisation m'a permis de développer ma **capacité à exprimer mes idées**, à écouter celles des autres et à collaborer de manière constructive.
+Le projet a été mené en suivant la **méthode agile** avec des **réunions hebdomadaires** encadrées par une enseignante. Ces points réguliers nous permettaient d'**échanger sur l’avancement**, de nous **répartir** les tâches et d'**ajuster** nos choix techniques. Nous avons également mis en place un **canal de communication** dédié pour **faciliter les échanges** en dehors des réunions. Cette **[organisation](/competences/organisation)** m'a permis de développer ma **capacité à exprimer mes idées**, à écouter celles des autres et à collaborer de manière constructive.
 
 ### Mise en place du projet
 
@@ -32,7 +32,7 @@ J'ai été chargée dès le départ de poser les **fondations du projet** en ré
 
 J'ai ensuite implémenté plusieurs **fonctionnalités clés**. J'ai conçu un **système de badges** original, reposant sur des **compteurs intégrés** dans la classe `Joueur` (ennemis vaincus, bonus utilisés, score atteint) et une logique de **déblocage dynamique** affichant visuellement les succès obtenus ou encore verrouillés. L'objectif était de renforcer la **rejouabilité** du jeu en donnant au joueur des objectifs à long terme.
 
-<img style="float:right; margin: 0 0 1rem 1.5rem; height:500px; width:520px;" src="/images/realisations/doodlejump/badge.png" alt="gif-doodlejump"/>
+<img style="float:right; margin: 0 0 1rem 1.5rem; border-radius: 10px;height:500px; width:520px;" src="/images/realisations/doodlejump/badge.png" alt="gif-doodlejump"/>
 
 ### Gestion des collisions
 
@@ -45,22 +45,22 @@ Pour la **gestion du son**, j'ai **apporté mon aide** à un membre de l'équipe
 
 ### Persistance des données
 
-Enfin, j'ai mis en place un système de **persistance des données** via une base **SQLite** : une classe de connexion permettait d'**enregistrer et de récupérer** les informations du joueur (score, nom, progression), assurant une **continuité** entre les parties. 
+Enfin, j'ai mis en place un système de **persistance des données** via une base **[SQLite](/competences/sql)** : une classe de connexion permettait d'**enregistrer et de récupérer** les informations du joueur (score, nom, progression), assurant une **continuité** entre les parties. 
 
 ## Les acteurs 
 
 L'enseignante encadrant le module fixait le **cadre du projet** et **animait** les réunions hebdomadaires.
-Les **quatre membres de l'équipe** étaient les autres acteurs de cette réalistion. Chacun avait ses **points forts**, et j'ai essayé de m'**adapter aux profils de chacun**, que ce soit pour **expliquer** un choix d'architecture, **débloquer** un problème technique ou maintenir une ambiance positive au sein de l'équipe. J'ai notamment pris l'initiative d'**aider proactivement** les membres en difficulté.
+Les **quatre membres de l'équipe** étaient les autres acteurs de cette réalistion. Chacun avait ses **points forts**, et j'ai essayé de m'**[adapter](/competences/adaptabilité) aux profils de chacun**, que ce soit pour **expliquer** un choix d'architecture, **débloquer** un problème technique ou maintenir une ambiance positive au sein de l'équipe. J'ai notamment pris l'initiative d'**[aider](/competences/esprit-equipe) proactivement** les membres en difficulté.
 
 ## Résultats
 
 Le projet a abouti à un **jeu complet** et **fonctionnel**, intégrant les principales mécaniques de Doodle Jump. Pour l'enseignante, le projet **répondait aux attentes du cours** et pour mes camarades, avoir posé une architecture claire dès le départ **a facilité l'intégration** de chacun dans le projet. De manière générale, le travail en équipe s'est bien passé et chacun a pu **contribuer à sa façon**.
 
-Cette réalisation a consolidé mes compétences en **Java** et en **conception logicielle**, et m'a permis de progresser sur des aspects que je maîtrisais moins comme la **gestion de conflits Git** à plusieurs, **intégrer du son** en **Java** ou encore penser à une fonctionnalité d'un **point de vue du joueur** plutôt que d'un point de vue uniquement technique. 
+Cette réalisation a consolidé mes compétences en **[Java](/competences/java)** et en **conception logicielle**, et m'a permis de progresser sur des aspects que je maîtrisais moins comme la **gestion de conflits [Git](/competences/git)** à plusieurs, **intégrer du son** en **Java** ou encore penser à une fonctionnalité d'un **point de vue du joueur** plutôt que d'un point de vue uniquement technique. 
 
 ## Les lendemains du projet
 
-À court terme, ce projet m'a surtout appris à mieux **travailler en groupe**, et m'a encouragé à davantage **proposer mes idées**. J'ai également beaucoup progressé en **Java**, cette réalisation m'a donné l'occasion de développer des fonctionnalités encore jamais vu. 
+À court terme, ce projet m'a surtout appris à mieux **travailler en groupe**, et m'a encouragé à davantage **proposer mes idées**. J'ai également beaucoup progressé en **[Java](/competences/java)**, cette réalisation m'a donné l'occasion de développer des fonctionnalités encore jamais vu. 
 
 À moyen terme, il m'a servi de **base solide** pour mon **alternance**, où je retrouve des problématiques similaires de **structuration de projet**, de **collaboration** et de **prise de décision technique**. 
 

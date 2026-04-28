@@ -8,7 +8,7 @@ image: "compostelle/compostelle.png"
 
 Cette réalisation consistait à parcourir le **chemin de Saint-Jacques-de-Compostelle**, une marche de **plusieurs semaines** à travers différentes régions et paysages **avec ma soeur**. Elle et moi aimions déjà beaucoup randonner, mais nous avions envie de vivre une expérience plus longue et plus immersive que nos sorties habituelles à la journée. L’idée était de partir toutes les deux, de nous déconnecter du quotidien et d’avancer au rythme de nos pas en suivant un itinéraire chargé d’histoire et de rencontres.
 
-<img style="float:center; margin: 0 1.5rem 1rem 0;height:100%; width:100%" src="/images/realisations/compostelle/carte_compostelle.png" alt="cartecompostelle"/>
+<img style="float:center; margin: 0 1.5rem 1rem 0;border-radius: 8px; height:100%; width:100%" src="/images/realisations/compostelle/carte_compostelle.png" alt="cartecompostelle"/>
 
 ## Objectifs, enjeux et risques
 
@@ -44,7 +44,7 @@ Les rencontres avec d'autres pèlerins ont aussi été une part importante de l'
 
 Les **imprévus** sont fréquents sur le chemin et nécessitent de réagir rapidement, c'est la compétence que j'ai eu le plus l'occasion de développer. Parfois à notre arrivée l'auberge était fermée, je devais donc **rapidement trouver une alternative**, même si celle-ci pouvait être de continuer la marche malgré la fatigue. À l'inverse, si une douleur était trop présente pour l'une de nous, je **réévaluais** l'étape du lendemain et réduisais les kilomètres prévus afin de nous préserver.
 
-<img style="float:left; margin: 0 1.5rem 1rem 0; height:600px; width:500px;" src="/images/realisations/compostelle/compostelle.jpeg" alt="compostelle"/>
+<img style="float:left; margin: 0 1.5rem 1rem 0;border-radius: 10px; height:600px; width:500px;" src="/images/realisations/compostelle/compostelle.jpeg" alt="compostelle"/>
 
 Dans ces moments difficiles, **rester positive** était essentiel, autant pour moi que pour ma soeur. Le moral de l'une influençait directement celui de l'autre, et savoir se r**emotiver mutuellement** dans les passages durs a été une vraie force tout au long du chemin.
 
@@ -54,7 +54,7 @@ Après **55 jours** de marche, arriver devant la cathédrale de **Santiago** a �
 
 ## Résultats
 
-Cette aventure a été une **réussite**. J'ai prouvé que j'étais capable de faire preuve d'une grande **[organisation](/competences/organisation)** et de m'adapter face à l'imprévu.
+Cette aventure a été une **réussite**. J'ai prouvé que j'étais capable de faire preuve d'une grande **[organisation](/competences/organisation)** et de m'**[adapter](/competences/adaptabilite)** face à l'imprévu.
 La **[communication](/competences/communication)** a aussi été essentielle, que ce soit avec ma soeur pour coordonner nos décisions ou avec les personnes rencontrées sur le chemin. Finalement, j'ai pu prendre du recul et renforcer ma relation avec ma soeur grâce à tous ces moments partagés.
 
 ## Les lendemains du projet
