@@ -24,26 +24,26 @@ Plusieurs **risques** existaient, le premier était la **coordination**, cinq pe
 
 Le projet a été mené en suivant la **méthode agile** avec des **réunions hebdomadaires** encadrées par une enseignante. Ces points réguliers nous permettaient d'**échanger sur l’avancement**, de nous **répartir** les tâches et d'**ajuster** nos choix techniques. Nous avons également mis en place un **canal de communication** dédié pour **faciliter les échanges** en dehors des réunions. Cette organisation m'a permis de développer ma **capacité à exprimer mes idées**, à écouter celles des autres et à collaborer de manière constructive.
 
-**Mise en place du projet**
+### Mise en place du projet
 
 J'ai été chargée dès le départ de poser les **fondations du projet** en réalisant le **premier commit**, il incluait la mise en place de la **structure des classes principales**, l'organisation des packages selon l'architecture **MVC** (Modèle-Vue-Contrôleur) et le développement de la **première interface graphique** avec un **menu de démarrage**.  Ce rôle m'a demandé de **prendre des décisions** d'architecture structurantes, notamment la séparation entre la logique métier, les vues (menu, jeu, paramètres) et le contrôleur gérant les interactions clavier.
 
-**Système de badges**
+### Système de badge
 
 J'ai ensuite implémenté plusieurs **fonctionnalités clés**. J'ai conçu un **système de badges** original, reposant sur des **compteurs intégrés** dans la classe `Joueur` (ennemis vaincus, bonus utilisés, score atteint) et une logique de **déblocage dynamique** affichant visuellement les succès obtenus ou encore verrouillés. L'objectif était de renforcer la **rejouabilité** du jeu en donnant au joueur des objectifs à long terme.
 
 <img style="float:right; margin: 0 0 1rem 1.5rem; height:500px; width:520px;" src="/images/realisations/doodlejump/badge.png" alt="gif-doodlejump"/>
 
-**Gestion des collisions**
+### Gestion des collisions
 
 J'ai travaillé sur la **gestion des collisions** entre le joueur, les plateformes et les ennemis. Cela impliquait de distinguer **plusieurs types d'interactions** comme le rebond sur une plateforme, la chute en cas de contact avec un ennemi, ou encore l'élimination d'un ennemi par saut. Pour cette partie, j'ai beaucoup travaillé sur la **précision des hitboxes** et l'**ordre de traitement** des événements dans la boucle de jeu, pour éviter des comportements incohérents.
 J'ai également participé à l'intégration de plusieurs entités : les **plateformes mouvantes**, les **ressorts** et les **fusées**, chacune avec **des comportements et des effets distincts** sur le joueur. J'ai fait en sorte que leur implémentation reste cohérente avec l'architecture **MVC** en place.
 
-**Contribution à la gestion du son**
+### Contribution à la gestion du son
 
 Pour la **gestion du son**, j'ai **apporté mon aide** à un membre de l'équipe qui rencontrait des difficultés. Nous avons ainsi travaillé **ensemble** pour implémenter la fonctionnalité. Nous avons développé deux classes dédiées, `Son` et `VisualPlayer`, permettant la lecture et la mise en pause des sons. J'ai sélectionné les effets sonores à partir de banques libres de droit et **intégré des bruitages contextuels** (ressort, fusée), ainsi qu'un contrôle de la musique dans le menu des paramètres.
 
-**Persistance des données**
+### Persistance des données
 
 Enfin, j'ai mis en place un système de **persistance des données** via une base **SQLite** : une classe de connexion permettait d'**enregistrer et de récupérer** les informations du joueur (score, nom, progression), assurant une **continuité** entre les parties. 
 

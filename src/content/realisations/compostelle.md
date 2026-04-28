@@ -22,7 +22,7 @@ Les **risques** étaient réels avec l'absence de préparation physique, le risq
 
 ## Étapes de réalisation
 
-**Préparation et départ**
+### Préparation et départ
 
 Le **départ** s'est fait sans préparation physique particulière, mais avec une **phase d'organisation** en amont.
 J'ai commencé par définir un **budget journalier** afin de gérer nos dépenses et d'anticiper les frais d'hébergement et de nourriture tout au long du chemin.
@@ -31,7 +31,7 @@ Pour planifier les étapes, je me suis aidée du "**Miam Miam Dodo**", le guide 
 
 Malgré cette **organisation**, je me suis rendue compte sur le chemin, que l'on ne pouvait pas tout prévoir, et qu'il fallait savoir s'**[adapter](/competences/adaptabilite) rapidement**. Notre point de départ a donc été **Figeac**, une commune du Lot.
 
-**Le chemin au quotidien**
+### Le chemin au quotidien
 
 Chaque matin demandait une **vraie [organisation](/competences/organisation)**. Avant de partir de l'auberge, il fallait toujours s'assurer de ne rien oublier. Je devais donc récupérer les vêtements mis à sécher la veille, prendre la nourriture du frigo nous appartenant, rassembler les bâtons et s'assurer que mon sac était correctement préparé. Un oubli pouvait avoir de réelles conséquences sur la journée, puisqu'il pouvait nous forcer à faire demi-tour. Cette routine du matin est vite devenue un **réflexe**.
 
@@ -40,7 +40,7 @@ Un sujet qui demandait une **anticipation constante** était la gestion des repa
 Les rencontres avec d'autres pèlerins ont aussi été une part importante de l'expérience. Échanger, s'entraider, partager des bons plans sur les hébergements ou les étapes à venir, cette **[communication](/competences/communication)** naturelle entre marcheurs faisait partie intégrante du chemin.
 
 
-**Gestion des imprévus et adaptation**
+### Gestion des imprévus et adaptation
 
 Les **imprévus** sont fréquents sur le chemin et nécessitent de réagir rapidement, c'est la compétence que j'ai eu le plus l'occasion de développer. Parfois à notre arrivée l'auberge était fermée, je devais donc **rapidement trouver une alternative**, même si celle-ci pouvait être de continuer la marche malgré la fatigue. À l'inverse, si une douleur était trop présente pour l'une de nous, je **réévaluais** l'étape du lendemain et réduisais les kilomètres prévus afin de nous préserver.
 
@@ -48,7 +48,7 @@ Les **imprévus** sont fréquents sur le chemin et nécessitent de réagir rapid
 
 Dans ces moments difficiles, **rester positive** était essentiel, autant pour moi que pour ma soeur. Le moral de l'une influençait directement celui de l'autre, et savoir se r**emotiver mutuellement** dans les passages durs a été une vraie force tout au long du chemin.
 
-**L'arrivée à Santiago**
+### L'arrivée à Santiago
 
 Après **55 jours** de marche, arriver devant la cathédrale de **Santiago** a été une émotion très forte. C'était l'aboutissement de semaines d'effort, de dépassement de soi et d'une volonté de ne jamais abandonner, même dans les moments les plus compliqués.
 
