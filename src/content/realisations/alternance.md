@@ -8,23 +8,23 @@ image: "alternance/alternance.png"
 
 Mon alternance de deux ans chez **[Easybourse](https://www.easybourse.com)**, un courtier en ligne filiale de **La Banque Postale**, m’a permis de passer d’un cadre académique à un environnement professionnel réel, avec des enjeux concrets pour l’entreprise. **EasyBourse** propose une plateforme permettant aux particuliers d’**investir** en bourse de manière **sécurisée** et **accessible**. Durant cette expérience, j’ai travaillé sur plusieurs projets liés à l’analyse de données, au reporting et à l’automatisation de processus internes.
 
-Ma **mission principale** était la **mise en place de rapports** réglementaires et business, ainsi que la **création de dashboards** destinés à améliorer la connaissance des clients et la vision globale de l’activité de l’entreprise. Cette mission s'installait aussi dans un contexte d'**automatisation** et de **réduction de la dette technique** très présente dans l'entreprise. J'ai donc mis en place de **nouveaux rapports** mais aussi **repris** des actuels mais encore générés manuellement.
+Ma **mission principale** était la **mise en place de rapports** réglementaires et business, ainsi que la **création de dashboards** destinés à améliorer la connaissance des clients et la vision globale de l’activité de l’entreprise. Cette mission s'installait aussi dans un contexte d'**automatisation** et de **réduction de la dette technique** très présente dans l'entreprise. J'ai donc mis en place de nouveaux rapports mais aussi repris des actuels mais encore générés manuellement.
 
 <!-- Ma mission principale et en parallèle, j’ai contribué à l’automatisation de processus existants et à la reprise d’anciens développements afin de les adapter aux technologies actuelles, dans une logique de réduction de la dette technique et d’amélioration de l’efficacité opérationnelle. -->
 
 ## Objectifs, enjeux et risques
 
-Cette **mission** avait différents **objectifs**, pour l’entreprise, il s’agissait de fournir à la **direction** et aux **équipes métiers** des reporting **fiables** et **exploitables**, permettant d’avoir une **vision claire** sur les clients, leur activité et les indicateurs clés de performance. Les reportings réglementaires étaient également **indispensables** pour garantir la **conformité** de l’entreprise avec les obligations légales. La partie automatisation de certains traitements permettait quant à elle de **réduire les tâches manuelles chronophages**, d’améliorer la fiabilité des données et surtout d'avoir un contrôle sur ces processus. Plus clairement dit, la mise en place de la **méthode ARC**, acronyme pour **Automatisation**, **Régulation**, **Contrôle**, qui consiste à s'assurer que chaque traitement s'est bien exécuté, d'être alerté rapidement en cas d'anomalie et de pouvoir intervenir sans délai pour corriger le problème.
+Cette **mission** avait différents objectifs, pour l’entreprise, il s’agissait de fournir à la direction et aux équipes métiers des reporting **fiables** et **exploitables**, permettant d’avoir une **vision claire** sur les clients, leur activité et les indicateurs clés de performance. Les reportings réglementaires étaient également **indispensables** pour garantir la **conformité** de l’entreprise avec les obligations légales. La partie automatisation de certains traitements permettait quant à elle de **réduire les tâches manuelles chronophages**, d’améliorer la fiabilité des données et surtout d'avoir un contrôle sur ces processus. Plus clairement dit, la mise en place de la **méthode ARC**, acronyme pour **Automatisation**, **Régulation**, **Contrôle**, qui consiste à s'assurer que chaque traitement s'est bien exécuté, d'être alerté rapidement en cas d'anomalie et de pouvoir intervenir sans délai pour corriger le problème.
 
-Pour moi, cette mission était celle que je devais **mener à bien** pour valider ma mission en entreprise, l'objectif était d'**appliquer les procédures enseignées** et d'**être efficace**. 
+Pour moi, cette mission était celle que je devais mener à bien pour valider ma mission en entreprise, l'objectif était d'appliquer les procédures enseignées et d'être efficace. 
 
-Les **enjeux** pour l’entreprise étaient importants. Avant la mise en place de certains reportings, il n’existait pas toujours de **vision centralisée de l’activité**, ce qui limitait l’**efficacité des analyses marketing** et la **prise de décision**. Les projets d’automatisation visaient également à **réduire les risques d’erreurs humaines** et à améliorer la **qualité des traitements**. Pour moi, l’enjeu était de **réussir mon intégration** dans un environnement professionnel, de **gagner en crédibilité** et de démontrer ma **capacité à contribuer** à des projets ayant un impact réel pour l’entreprise.
+Les **enjeux** pour l’entreprise étaient importants. Avant la mise en place de certains reportings, il n’existait pas toujours de **vision centralisée de l’activité**, ce qui limitait l’efficacité des analyses marketing et la prise de décision. Les projets d’automatisation visaient également à **réduire les risques d’erreurs humaines** et à améliorer la **qualité des traitements**. Pour moi, l’enjeu était de réussir mon intégration dans un environnement professionnel, de gagner en crédibilité et de démontrer ma capacité à contribuer à des projets ayant un impact réel pour l’entreprise.
 
-Le risque était de **ne pas atteindre les attentes** de l'entreprise et de mon maître d'apprentissage. Pour l'entreprise, c'était de voir ce **projet stagner**, et de continuer à perdre du temps sur des tâches qui pourrait être automatisée.
+Le risque était de ne pas atteindre les attentes de l'entreprise et de mon maître d'apprentissage. Pour l'entreprise, c'était de voir ce projet stagner, et de continuer à perdre du temps sur des tâches qui pourrait être automatisée.
 
 ## Les acteurs 
 
-Ma **mission** s'est donc déroulée dans un **environnement professionnel structuré** impliquant plusieurs équipes : **développeurs**, **équipes métiers**, **marketing** et **direction**. 
+Ma **mission** s'est donc déroulée dans un environnement professionnel structuré impliquant plusieurs équipes : **développeurs**, **équipes métiers**, **marketing** et **direction**. 
 
 J’ai travaillé en étroite collaboration avec mon **maître d’apprentissage**, qui m’accompagnait sur les aspects techniques et fonctionnels des développements. Il m’a aidée à comprendre les enjeux métiers et à structurer mes solutions. J’ai également collaboré avec les autres **développeurs** lors des reprises de code, des mises en production et des échanges sur les bonnes pratiques. Les interactions avec les autres services cités précédemment étaient également essentielles pour comprendre les besoins et concevoir des solutions adaptées.
 
@@ -32,15 +32,17 @@ J’ai travaillé en étroite collaboration avec mon **maître d’apprentissage
 
 ### Prise d'information
 
-Mon travail consistait à **répondre aux demandes de reporting**, qu’elles soient **réglementaires** ou liées aux **besoins métiers**. Je devais **analyser** chaque demande, **comprendre** sa finalité et **déterminer** si elle pouvait être automatisée. Il était important de comprendre l'**objectif du rapport**, surtout si il contenait des **données à caractère personnel** (DCP), c'est-à-dire toute information permettant d'identifier **directement** ou **indirectement** une personne comme un nom de famille ou un numéro client. Ces données étant **sensibles**, il était important de bien comprendre leur usage avant de commencer le développement.
+Mon travail consistait à **répondre aux demandes de reporting**, qu’elles soient **réglementaires** ou liées aux **besoins métiers**. Je devais analyser chaque demande, comprendre sa finalité et déterminer si elle pouvait être automatisée. Il était important de comprendre l'**objectif du rapport**, surtout si il contenait des **données à caractère personnel** (**DCP**), c'est-à-dire toute information permettant d'identifier **directement** ou **indirectement** une personne comme un nom de famille ou un numéro client. Ces données étant **sensibles**, il était important de bien comprendre leur usage avant de commencer le développement.
 
 ### Développement Python et DAG Airflow
 
-Une fois les **besoins clarifiés**, j'**explorais les bases de données** de l’entreprise pour identifier les **tables** et les **relations pertinentes**, puis je **construisais** des requêtes **[SQL](/competences/sql)** capables de produire les données attendues.
+Une fois les **besoins clarifiés**, j'explorais les bases de données de l’entreprise pour identifier les **tables** et les **relations pertinentes**, puis je construisais des requêtes **[SQL](/competences/sql)** capables de produire les données attendues.
 Certaines se sont d'ailleurs révélées **complexes** à optimiser, notamment sur des **volumes de données importants**.
-Ces requêtes étaient ensuite intégrées dans des scripts **Python** que je développais, accompagné de l'algorithme nécessaire lorsqu'une phase de vérification ou de contrôle des données était demandé. 
+Ces requêtes étaient ensuite intégrées dans des scripts **[Python](/competences/python)** que je développais, accompagné de l'algorithme nécessaire lorsqu'une phase de vérification ou de contrôle des données était demandé. 
 
 Ensuite, j'utilisais [Apache Airflow](https://airflow.apache.org), un outil d'**orchestration de workflows**, pour **planifier** et **automatiser** l'exécution de ces traitements. Cela impliquait de rédiger un **DAG** (Directed Acylic Gragh), qui consiste en un code **Python** afin de définir l'ordre et la fréquence d'exécution des différentes tâches. Tous les lundis à 8h ou bien tous les 1er du mois par exemple. Cet outil nous permet de mettre en place la méthode **ARC**.
+
+<img style="display:block; margin: 1rem auto; width:100%; height:100%;" src="/images/realisations/alternance/airflow_interface.png" alt="airflow"/>
 
 ### Tests en recette
 
@@ -54,7 +56,7 @@ Une fois le **test concluant**, je sollicitais la personne à l'origine de la de
 
 ### Mise en production
 
-Après avoir obtenue **toutes les validations nécessaires**, je passais à la **mise en production** du développement. Pour cela, je créais une **merge request** afin de soumettre l’intégration du code, permettant à mon maître d'apprentissage de **relire** les modifications et de **garantir** la qualité du code avant son **déploiement**. Cette organisation facilitait la **collaboration** et **assurait un suivi clair** des évolutions du projet. Par la suite, les **DevOps**, administrateurs des infrastructures informatiques et **responsable** de la gestion de la production, prenaient ensuite le relais en **acceptant ma merge request**. Je collaborais également avec eux pour **planifier** la mise à disposition des fichiers générés via **SecureTransport**, l’**outil de transfert de fichier sécurisé** utilisé par l’entreprise.
+Après avoir obtenue **toutes les validations nécessaires**, je passais à la **mise en production** du développement. Pour cela, je créais une **merge request** afin de soumettre l’intégration du code, permettant à mon maître d'apprentissage de relire les modifications et de garantir la qualité du code avant son **déploiement**. Cette organisation facilitait la **collaboration** et **assurait un suivi clair** des évolutions du projet. Par la suite, les **DevOps**, administrateurs des infrastructures informatiques et **responsable** de la gestion de la production, prenaient ensuite le relais en **acceptant ma merge request**. Je collaborais également avec eux pour **planifier** la mise à disposition des fichiers générés via **SecureTransport**, l’**outil de transfert de fichier sécurisé** utilisé par l’entreprise.
 
 <img style="display:block; margin: 1rem auto; height:90px; width:650px;" src="/images/realisations/alternance/dashboardglob.png" alt="dashglob"/>
 
