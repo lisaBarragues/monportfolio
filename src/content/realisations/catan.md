@@ -19,19 +19,19 @@ Plusieurs enjeux accompagnaient ce projet. Pour l'**enseignant**, le livrable de
 
 ## Étapes de réalisation
 
-#### Modélisation et architecture
+### Modélisation et architecture
 
 J'ai débuté le projet par une phase d'**analyse fonctionnelle** des règles du jeu, visant à **identifier les entités** et **leurs relations**, cela a permis de définir une **hiérarchie de classes**. Pour les tuiles (du plateau), j'ai créé une **classe abstraite** `Tuile` **étendue** par des **sous-classes** typées selon la ressource produite (`TuileForet`, `TuileMontagne`, `TuileChamp`, etc.) et une `TuileDesert` sans production. 
 Le plateau est constitué d'un ensemble de tuiles, chaque tuile a un **nom**, un **numéro** et un **tableau de quatre** `Arete`  représentant ses côtés, c'est-à-dire les emplacements où les constructions peuvent être posées.
 Pour les **constructions**, j'ai défini une **classe abstraite** `Construction` dont héritaient `Route`, `Colonie` et `Ville`, chacune **encapsulant** sa propre logique de validation de placement et de calcul de coût. Des **interfaces** ont structuré les comportements partagés, notamment pour les entités participant au cycle de production et de consommation de ressources.
 
 
-**Implémentation de la version textuelle**
+### Implémentation de la version textuelle
 
 J'ai choisi de **prioriser** la **version terminal** avant d'aborder l'interface graphique, afin de valider la **logique métier** indépendamment de la présentation visuelle.
 Cette version englobait l'**ensemble du cycle du jeu**, c'est-à-dire la distribution des ressources au lancer de dé, le placement des constructions avec vérification des contraintes d'adjacence, les échanges maritimes et entre joueurs, l'activation des cartes développement et leurs effets, ainsi qu'une **IA** basique basée sur des choix aléatoires. Ce dernier point a généré un **bug significatif**, des erreurs de types `stack overflow` causées par les tentatives **répétées** d'action invalide de l'IA. Pour remédier à ce souci, j'ai ajouté un **compteur de tentatives**. Au-delà d'un certain seuil, plutôt que de laisser l'IA tourner indéfiniment, je recherchais manuellement un coup valide parmi les actions disponibles et le jouais à sa place, avant de passer au joueur suivant.
 
-**Implémentation de la version graphique**
+### Implémentation de la version graphique
 
 La **version graphique** a été construite en surcouche de la **logique métier** existante. J'ai modélisé le plateau (tuiles carrés, intersections et routes) avec des **classes internes** représentant chaque entité graphique. La gestion des interactions reposait sur des écouteurs d'événements souris (`MouseListener`), et les actions nécessitant un choix de la part du joueur, comme la sélection d'une ressource lors d'un échange ou la désignation de la case voleur s'affichaient dans des **boîtes de dialogue** dédiées.
 À l'approche de la date de rendu, je me suis consacrée à la **stabilisation du jeu** et à la **correction des bugs**, notamment des `NullPointerException` dues à une mauvaise initialisation de certaines variables lors de séquences d'actions peu fréquentes. \

@@ -1,6 +1,5 @@
 ---
 title: "MyPlatformer"
-#  inutile
 order: 4
 image: "myplatformer/myplatformer.png"
 ---

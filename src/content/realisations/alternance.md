@@ -18,7 +18,7 @@ Cette **mission** avait différents **objectifs**, pour l’entreprise, il s’a
 
 Pour moi, cette mission était celle que je devais **mener à bien** pour valider ma mission en entreprise, l'objectif était d'**appliquer les procédures enseignées** et d'**être efficace**. 
 
-Les **enjeux** pour l’entreprise étaient importants. Avant la mise en place de certains reportings, il n’existait pas toujours de **vision centralisée de l’activité**, ce qui limitait l’**efficacité des analyses marketing** et la **prise de décision**. Les projets d’automatisation visaient également à **réduire les risques d’erreurs humaines** et à améliorer la **qualité des traitements**. Pour moi, l’enjeu était de **réussir mon intégration** dans un environnement professionnel, de **gagner en crédibilité** et de démontrer ma ** ** à des projets ayant un impact réel pour l’entreprise.
+Les **enjeux** pour l’entreprise étaient importants. Avant la mise en place de certains reportings, il n’existait pas toujours de **vision centralisée de l’activité**, ce qui limitait l’**efficacité des analyses marketing** et la **prise de décision**. Les projets d’automatisation visaient également à **réduire les risques d’erreurs humaines** et à améliorer la **qualité des traitements**. Pour moi, l’enjeu était de **réussir mon intégration** dans un environnement professionnel, de **gagner en crédibilité** et de démontrer ma **capacité à contribuer** à des projets ayant un impact réel pour l’entreprise.
 
 Le risque était de **ne pas atteindre les attentes** de l'entreprise et de mon maître d'apprentissage. Pour l'entreprise, c'était de voir ce **projet stagner**, et de continuer à perdre du temps sur des tâches qui pourrait être automatisée.
 
@@ -30,11 +30,11 @@ J’ai travaillé en étroite collaboration avec mon **maître d’apprentissage
 
 ## Étapes de réalisation
 
-**Prise d'information**
+### Prise d'information
 
 Mon travail consistait à **répondre aux demandes de reporting**, qu’elles soient **réglementaires** ou liées aux **besoins métiers**. Je devais **analyser** chaque demande, **comprendre** sa finalité et **déterminer** si elle pouvait être automatisée. Il était important de comprendre l'**objectif du rapport**, surtout si il contenait des **données à caractère personnel** (DCP), c'est-à-dire toute information permettant d'identifier **directement** ou **indirectement** une personne comme un nom de famille ou un numéro client. Ces données étant **sensibles**, il était important de bien comprendre leur usage avant de commencer le développement.
 
-**Développement Python et DAG Airflow**
+### Développement Python et DAG Airflow
 
 Une fois les **besoins clarifiés**, j'**explorais les bases de données** de l’entreprise pour identifier les **tables** et les **relations pertinentes**, puis je **construisais** des requêtes **[SQL](/competences/sql)** capables de produire les données attendues.
 Certaines se sont d'ailleurs révélées **complexes** à optimiser, notamment sur des **volumes de données importants**.
@@ -42,17 +42,17 @@ Ces requêtes étaient ensuite intégrées dans des scripts **Python** que je d�
 
 Ensuite, j'utilisais [Apache Airflow](https://airflow.apache.org), un outil d'**orchestration de workflows**, pour **planifier** et **automatiser** l'exécution de ces traitements. Cela impliquait de rédiger un **DAG** (Directed Acylic Gragh), qui consiste en un code **Python** afin de définir l'ordre et la fréquence d'exécution des différentes tâches. Tous les lundis à 8h ou bien tous les 1er du mois par exemple. Cet outil nous permet de mettre en place la méthode **ARC**.
 
-**Tests en recette**
+### Tests en recette
 
 Une fois le **développement finalisé**, je le testais en **recette** afin de vérifier son **bon fonctionnement** avant la mise en production.  Cet **environnement isolé** permettait de s'assurer que le rapport généré était **correct** sans risquer d'impacter les données de production.
 
 <!-- Une fois les développements finalisés, je réalisais les tests nécessaires en environnement de recette afin de vérifier le bon fonctionnement du processus automatisé avant la mise en production. Tout au long du développement, j’utilisais Git comme système de gestion de version.  -->
 
-**Validation par le demandeur**
+### Validation par le demandeur
 
 Une fois le **test concluant**, je sollicitais la personne à l'origine de la demande pour qu'elle **valide le rapport**, autrement dit la cohérence des données, la structure des colonnes et bien sûr le respect du besoin initial. Cette étape est essentielle pour s'assurer que l'on correspond bien aux attentes.
 
-**Mise en production**
+### Mise en production
 
 Après avoir obtenue **toutes les validations nécessaires**, je passais à la **mise en production** du développement. Pour cela, je créais une **merge request** afin de soumettre l’intégration du code, permettant à mon maître d'apprentissage de **relire** les modifications et de **garantir** la qualité du code avant son **déploiement**. Cette organisation facilitait la **collaboration** et **assurait un suivi clair** des évolutions du projet. Par la suite, les **DevOps**, administrateurs des infrastructures informatiques et **responsable** de la gestion de la production, prenaient ensuite le relais en **acceptant ma merge request**. Je collaborais également avec eux pour **planifier** la mise à disposition des fichiers générés via **SecureTransport**, l’**outil de transfert de fichier sécurisé** utilisé par l’entreprise.
 
