@@ -61,7 +61,7 @@ Après avoir obtenue **toutes les validations nécessaires**, je passais à la *
 
 <img style="display:block; margin: 1.5rem auto; border-radius: 8px; height:90px; width:650px;" src="/images/realisations/alternance/dashboardglob.png" alt="dashglob"/>
   <p style="text-align: center; font-size: 0.85rem; opacity: 0.7;margin-bottom: 0px;">
-    Un exemple de rapport que j'ai réalisé, représentant le chiffre d'affaires et d'autres indicateurs clés de l'entreprise (les données présentées ici sont fictives).
+    Un exemple de rapport que j'ai réalisé, représentant le chiffre d'affaires de l'entreprise (les données présentées ici sont fictives).
   </p>
 
 ## Résultats
