@@ -6,10 +6,13 @@ image: "catan/catan.png"
 
 ## Présentation du projet
 
-Dans le cadre du premier semestre de ma L2 informatique, j'ai développé une version jouable de **Catan** en **[Java](/competences/java)**. Le projet devait proposer **deux modes de jeu** : une **version textuelle** dans le terminal et une **version graphique** avec une interface utilisateur. Il fallait implémenter les principales mécaniques du jeu : gestion des ressources, construction de routes, colonies et villes, échanges entre joueurs et ports, cartes développement, déplacement du voleur et conditions de victoire. Ce projet demandait une véritable **modélisation orientée objet** ainsi qu’une réflexion sur l’**architecture logicielle**.
+Dans le cadre du premier semestre de ma L2 informatique, j'ai développé une version jouable de **Catan** en **[Java](/competences/java)**. Le projet devait proposer **deux modes de jeu** : une **version textuelle** dans le terminal et une **version graphique** avec une interface utilisateur. 
+<img style="float:right; margin: 0 0 0 1.5rem;border-radius: 8px; height:400px; width:500px;" src="/images/realisations/catan/boardgame.jpg" alt="boardgame"/>
+
+Il fallait implémenter les principales mécaniques du jeu : gestion des ressources, construction de routes, colonies et villes, échanges entre joueurs et ports, cartes développement, déplacement du voleur et conditions de victoire. Ce projet demandait une véritable **modélisation orientée objet** ainsi qu’une réflexion sur l’**architecture logicielle**.
+
 
 Ce projet a marqué mes débuts en **programmation orientée objet (POO)**. Il m’a confrontée pour la première fois à la **modélisation** d’un système complexe : le jeu de société Catan, avec son plateau, et ses nombreuses règles. Travailler sur ce projet m’a poussée à **structurer ma réflexion**, à **collaborer** efficacement et à **persévérer** malgré des difficultés techniques. Avec le recul, il a **renforcé ma confiance** dans ma capacité à mener un projet de développement conséquent.
-
 ## Objectifs, enjeux et risques
 
 Les objectifs étaient à la fois **techniques** et **pédagogiques** : implémenter fidèlement les règles du jeu, concevoir une **architecture claire et maintenable**, et développer une expérience de jeu cohérente dans les deux versions. Ce projet devait également me permettre d'approfondir ma maîtrise de **[Java](/competences/java)**, de la **POO** et de la gestion de version avec **[Git](/competences/git)**.

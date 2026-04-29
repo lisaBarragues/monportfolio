@@ -14,7 +14,7 @@ Lors de ma L3 d’informatique générale à l’<a href="https://u-paris.fr" ta
 ## Objectifs, enjeux et risques
 
 Ce projet s’inscrivait dans un **contexte académique exigeant**, avec une évaluation à la fois **individuelle** et **collective** sur un semestre. 
-L'objectif technique était de **produire un jeu fonctionnel**, jouable et bien structuré, en **appliquant les concepts vus en cours**. Mais aussi de démontrer une capacité à **travailler en équipe**. 
+L'objectif technique était de **produire un jeu fonctionnel**, jouable et bien structuré, en **appliquant les concepts vus en cours**. Mais aussi de démontrer une capacité à **[travailler en équipe](/competences/esprit-equipe)**. 
 
 Le principal enjeu pour moi était de réussir à m'**intégrer efficacement** dans une équipe de cinq. Il fallait aligner les visions techniques, éviter les incohérences entre les parties développées séparément, et rester force de proposition sans empiéter sur le travail des autres. C'était ma première expérience de développement avec une équipe aussi grande.
 

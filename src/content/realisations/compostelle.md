@@ -18,7 +18,11 @@ Les **objectifs** étaient à la fois **personnels** et **humains**, réussir à
 
 Les **enjeux** étaient multiples, sur le plan physique, marcher en moyenne une **vingtaine de kilomètres par jour** pendant au total **55 jours** sans préparation représentait un **vrai défi**. Sur le plan **logistique**, il fallait gérer **quotidiennement** l'hébergement, le budget et l'itinéraire. Enfin, sur le plan **personnel**, le **vrai enjeu** était de tenir sur le long terme et de ne pas abandonner dans les moments de doute et de fatigue.
 
-Les **risques** étaient réels avec l'absence de préparation physique, le risque de blessures augmentait. Certains soirs, des auberges se retrouvaient fermées à notre arrivée, nous laissant **sans hébergement assuré**. La météo parfois compliqué rendait certaines étapes éprouvantes. Ces imprévus nous ont obligées à nous **adapter en permanence**.
+Les **risques** étaient réels aet de différentes natures.
+Sur le plan physique, partir sans préparation augmentait clairement le risque de blessures. Les douleurs musculaires, articulaires ou encore les amoules peuvent vite devenir un obstacle sur un chemin aussi long. La récupération était donc importante chaque soir, d'autant plus que la fatigue augmente le risque de blessure.
+
+Sur le plan mental, tenir 55 jours loin de chez soi n'était pas évident. Les imprévus et déceptions du quotidien pouvaient vite peser sur le moral et rendre difficile le fait de repartir le lendemain avec la même énergie. Les auberges fermées ou complètes ou même la météo changeante nous obligeait à nous **adapter en permanence** .
+
 
 ## Étapes de réalisation
 
@@ -27,7 +31,19 @@ Les **risques** étaient réels avec l'absence de préparation physique, le risq
 Le **départ** s'est fait sans préparation physique particulière, mais avec une **phase d'organisation** en amont.
 J'ai commencé par définir un **budget journalier** afin de gérer nos dépenses et d'anticiper les frais d'hébergement et de nourriture tout au long du chemin.
 
-Pour planifier les étapes, je me suis aidée du "**Miam Miam Dodo**", le guide de référence des pélerins, qui recense les hébergements, les distances, le dénivelé et les points de ravitaillement disponibles sur le chemin. Pour chaque étape, il fallait **prévoir** le nombre de kilomètre à parcourir, le logement dans lequel nous passerions la nuit et les points d'eau annoncés. En effet, ce dernier point est important car sans y prêter attention, il est très vite possible de se retrouver à marcher de longues heures sans accès à de l'eau.
+<div style="float: right; margin: 1rem 0 1rem 1.5rem; width: 70%;">
+  <img style="width: 100%; border-radius: 8px;" src="/images/realisations/compostelle/miammiamdodo.jpg" alt="miammiamdodo"/>
+  <p style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: px;">
+   Une page du Miam Dodo Dodo où l'on peut voir le dénivelé, les auberges, les points d'eau et de nourriture
+  </p>
+</div>
+
+Pour planifier les étapes, je me suis aidée du "**Miam Miam Dodo**", le guide de référence des pélerins, qui recense les hébergements, les distances, le dénivelé et les points de ravitaillement disponibles sur le chemin. Pour chaque étape, il fallait **prévoir** le nombre de kilomètres à parcourir, le logement dans lequel nous passerions la nuit et les points d'eau annoncés. En effet, ce dernier point est important car sans y prêter attention, il est très vite possible de se retrouver à marcher de longues heures sans accès à de l'eau.
+
+Je faisais également attention au **dénivelé**, sur une étape où il était très positif, je préférais réduire les kilomètres. Je comparais aussi le prix des auberges, car parfois faire un ou deux kilomètres supplémentaires pouvait être plus avantageux si ça nous permettait de dormir dans un gîte communal, c'est-à-dire une auberge mise à disposition par la marie et souvent bien moins cher. 
+
+Pour la **préparation de nos sacs**, je me suis renseignée en regardant des vidéos de personnes ayant déjà fait le chemin.
+Cela m'a permis de partir avec le **strict nécessaire**, avec un sac pesant seulement **4 kilos** (sans eau), tout en étant équipée  pour faire face à toutes les conditions météo (pantalon de pluie, imperméable, casquette pour le soleil).
 
 Malgré cette **organisation**, je me suis rendue compte sur le chemin, que l'on ne pouvait pas tout prévoir, et qu'il fallait savoir s'**[adapter](/competences/adaptabilite) rapidement**. Notre point de départ a donc été **Figeac**, une commune du Lot.
 
@@ -42,11 +58,11 @@ Les rencontres avec d'autres pèlerins ont aussi été une part importante de l'
 
 ### Gestion des imprévus et adaptation
 
-Les **imprévus** sont fréquents sur le chemin et nécessitent de réagir rapidement, c'est la compétence que j'ai eu le plus l'occasion de développer. Parfois à notre arrivée l'auberge était fermée, je devais donc **rapidement trouver une alternative**, même si celle-ci pouvait être de continuer la marche malgré la fatigue. À l'inverse, si une douleur était trop présente pour l'une de nous, je **réévaluais** l'étape du lendemain et réduisais les kilomètres prévus afin de nous préserver.
+Les **imprévus** sont fréquents sur le chemin et nécessitent de réagir rapidement, c'est la compétence que j'ai eu le plus l'occasion de développer. Parfois à notre arrivée l'auberge était fermée ou complète, je devais donc **rapidement trouver une alternative**, la plupart du temps c'était de continuer la marche malgré la fatigue. À l'inverse, si une douleur était trop présente pour l'une de nous, je **réévaluais** l'étape du lendemain et réduisais les kilomètres prévus afin de nous préserver.
 
 <img style="float:left; margin: 0 1.5rem 1rem 0;border-radius: 10px; height:600px; width:500px;" src="/images/realisations/compostelle/compostelle.jpeg" alt="compostelle"/>
 
-Dans ces moments difficiles, **rester positive** était essentiel, autant pour moi que pour ma soeur. Le moral de l'une influençait directement celui de l'autre, et savoir se r**emotiver mutuellement** dans les passages durs a été une vraie force tout au long du chemin.
+Dans ces moments difficiles, **rester positive** était essentiel, autant pour moi que pour ma soeur. Le moral de l'une influençait directement celui de l'autre, et savoir se **remotiver mutuellement** dans les passages durs a été une vraie force tout au long du chemin.
 
 ### L'arrivée à Santiago
 
@@ -63,7 +79,9 @@ La **[communication](/competences/communication)** a aussi été essentielle, qu
 
 À moyen terme, les compétences développées (**organisation**, **communication** et **rigueur**) se sont naturellement **retrouvées** dans mes projets académiques et professionnels. 
 
-Aujourd’hui encore, le **chemin de Compostelle** reste une expérience personnelle marquante, car il démontre ma capacité à **sortir de ma zone de confort** et à aller au **bout d’un objectif**.
+Aujourd’hui encore, le **chemin de Compostelle** reste une expérience personnelle marquante, car il démontre ma capacité à **sortir de ma zone de confort** et à aller au **bout d’un objectif**. 
+
+<!-- D'ailleurs depuis, j'ai aussi fait le chemin Portugais qui consiste à marcher de Porto jusqu'à Santiago et nous aimerions avec ma soeur compléter notre chemin en partant du Puy-en-Velay, le départ le plus connu et "mythique" et finir à Figeac. -->
 
 ## Mon regard critique
 
