@@ -72,7 +72,7 @@ Pour moi, cette mission a été une **vraie montée en compétences**. J'ai appr
 
 ## Mon regard critique
 
-Ma **principale valeur ajoutée** sur ce projet a été mon **autonomie** et ma **rigueur**. Dès le début j'ai pris les devants en explorant les bases de données, en proposant des solutions et en revenant vers mon maître d'apprentissage avec des questions précises plutôt que des blocages. Cette façon de travailler m'a permis d'avancer **efficacement** et de montrer que j'étais capable de gérer des développements de **manière indépendante**.
+Ma **principale valeur ajoutée** sur ce projet a été mon **[autonomie](/competences/autonomie)** et ma **[rigueur](/competences/rigueur)**. Dès le début j'ai pris les devants en explorant les bases de données, en proposant des solutions et en revenant vers mon maître d'apprentissage avec des questions précises plutôt que des blocages. Cette façon de travailler m'a permis d'avancer **efficacement** et de montrer que j'étais capable de gérer des développements de **manière indépendante**.
 
 Ce que je retiens surtout de cette expérience, c'est l'importance de la communication. J'ai appris à **[adapter](/competences/adaptabilite) mon discours** selon mon interlocuteur, qu'il soit développeur, ou bien qu'il fasse partie de la direction, j'ai **reformulé** des besoins techniques en termes compréhensibles et inversement. 
 
@@ -97,7 +97,7 @@ Aujourd’hui, cette expérience constitue un **socle essentiel** de mon parcour
 <div>
 
 **Humaine**
-- **[Esprit d'équipe](/competences/esprit-equipe)**
+- **[Autonomie](/competences/autonomie)**
 - **[Adaptabilité](/competences/adaptabilite)**
 - **[Communication](/competences/communication)**
 - **[Rigueur](/competences/rigueur)**
