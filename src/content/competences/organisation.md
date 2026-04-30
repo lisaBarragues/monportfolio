@@ -24,11 +24,11 @@ Ces expériences m’ont permis de faire évoluer ma manière de m’organiser. 
 
 ## Mon évolution
 
-Désormais, je suis capable de gérer efficacement **plusieurs responsabilités en parallèle**, de planifier sur le **long terme** comme sur le **court terme**, et de rester méthodique, même dans les **périodes de forte pression**. Mon sens de l’organisation est devenu un atout essentiel que je mobilise au quotidien dans mes études et mon travail.
+Désormais, je suis capable de gérer efficacement **plusieurs responsabilités en parallèle**, de **planifier** sur le long terme comme sur le court terme, et de rester méthodique, même dans les **périodes de forte pression**. Mon sens de l’organisation est devenu un **atout essentiel** que je mobilise au quotidien dans mes études et mon travail.
 
 ## Mon auto-critique
 
-Je me situe aujourd'hui à un niveau **confirmé**, presque expert dans certains contextes. L'organisation est une compétence que j'ai développée tôt et qui fait partie intégrante de ma façon de fonctionner. Ma marge de progression se situe surtout dans ma capacité à rester **flexible** quand le planning initial n'est plus possible, j'ai tendance à vouloir tout structurer, ce qui peut parfois devenir un frein quand il faut improviser.
+Je me situe aujourd'hui à un niveau **confirmé**. L'organisation est une compétence que j'ai développée tôt et qui fait partie intégrante de ma façon de fonctionner. Ma marge de progression se situe surtout dans ma capacité à rester **flexible** quand le planning initial n'est plus possible, j'ai tendance à vouloir tout structurer, ce qui peut parfois devenir un frein quand il faut improviser.
 
 C'est une compétence centrale dans le domaine de l'informatique, être capable de **respecter les délais**, **anticiper les blocages** et **structurer son travail** n'est pas un luxe, c'est une exigence. En alternance, cette compétence m'a permis d'être rapidement **opérationnelle** et de gagner en **autonomie**.
 
